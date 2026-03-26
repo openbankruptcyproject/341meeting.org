@@ -1,0 +1,20 @@
+# 341meeting.org
+
+> Complete plain-English guide to the 341 meeting of creditors under 11 U.S.C. Section 341. What happens, what the trustee asks, what to bring, and how to prepare for your only required bankruptcy appearance.
+
+## About
+
+341meeting.org provides a comprehensive guide to the 341 meeting of creditors, the only required court appearance in most bankruptcy cases. The site covers what to expect at the meeting, common trustee questions, required documents and identification, and tips for preparation. Available in both English and Spanish.
+
+## Key Pages
+
+- [Home](https://341meeting.org/): Full guide to the 341 meeting of creditors -- what happens, what to bring, trustee questions, and preparation tips
+- [Spanish Version](https://341meeting.org/index-es.html): Guide in Spanish (Reunion 341 de acreedores)
+
+## Network
+
+Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "341meeting.org, Bankruptcy Transparency Network (2026)."
