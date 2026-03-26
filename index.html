@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'GA_MEASUREMENT_ID');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The 341 Meeting of Creditors -- What to Expect | 341meeting.org</title>
+<meta name="description" content="Complete plain-English guide to the 341 meeting of creditors under 11 U.S.C. Section 341. What happens, what the trustee asks, what to bring, and how to prepare for your only required bankruptcy appearance.">
+<meta name="keywords" content="341 meeting, meeting of creditors, Section 341, bankruptcy trustee, bankruptcy hearing, what to expect at 341 meeting, trustee questions, bankruptcy appearance">
+<link rel="canonical" href="https://341meeting.org/">
+
+<!-- Open Graph -->
+<meta property="og:title" content="The 341 Meeting of Creditors -- What to Expect">
+<meta property="og:description" content="Plain-English guide to the 341 meeting of creditors. What the trustee asks, what to bring, and how to prepare for your only required bankruptcy court appearance.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://341meeting.org/">
+<meta property="og:site_name" content="341meeting.org">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="The 341 Meeting of Creditors -- What to Expect">
+<meta name="twitter:description" content="Plain-English guide to the 341 meeting of creditors. What the trustee asks, what to bring, and how to prepare for your only required bankruptcy court appearance.">
+
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --yellow: #e3a835;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .skip-link {
+    position: absolute; left: -9999px; top: auto;
+    width: 1px; height: 1px; overflow: hidden; z-index: 9999;
+    padding: 1rem; background: #238636; color: #fff;
+    font-weight: 600; text-decoration: none;
+  }
+  .skip-link:focus {
+    position: fixed; top: 10px; left: 10px;
+    width: auto; height: auto; overflow: visible;
+  }
+
+  /* Nav */
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  nav .site-name {
+    color: #f0f6fc;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger {
+    display: none; background: none; border: none; color: var(--text);
+    font-size: 1.5rem; cursor: pointer; padding: 0.25rem;
+  }
+
+  /* Breadcrumb */
+  .breadcrumb {
+    max-width: 760px;
+    margin: 1rem auto 0;
+    padding: 0 1.5rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+
+  /* Header */
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  header h1 {
+    color: #f0f6fc;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  header h1 .accent { color: var(--accent); }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  /* Main */
+  main { max-width: 760px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+  /* Content sections */
+  .content-section {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  .content-section h2 {
+    color: #f0f6fc;
+    font-size: 1.375rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .content-section h3 {
+    color: #f0f6fc;
+    font-size: 1.125rem;
+    margin: 1.5rem 0 0.75rem;
+  }
+  .content-section p {
+    color: var(--text);
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+  }
+  .content-section ul, .content-section ol {
+    margin: 0.75rem 0 0.75rem 1.5rem;
+    color: var(--text);
+    font-size: 0.95rem;
+  }
+  .content-section li { margin-bottom: 0.4rem; }
+
+  /* Statute box */
+  .statute-box {
+    background: #21262d;
+    border-left: 3px solid var(--accent);
+    padding: 1rem 1.25rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+  .statute-box p { margin-bottom: 0.5rem; }
+  .statute-box p:last-child { margin-bottom: 0; }
+
+  /* Warning box */
+  .warning-box {
+    background: #21262d;
+    border-left: 3px solid var(--red);
+    padding: 1rem 1.25rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+  .warning-box p { margin-bottom: 0.5rem; }
+  .warning-box p:last-child { margin-bottom: 0; }
+
+  /* Green box */
+  .green-box {
+    background: #21262d;
+    border-left: 3px solid var(--green);
+    padding: 1rem 1.25rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+  .green-box p { margin-bottom: 0.5rem; }
+  .green-box p:last-child { margin-bottom: 0; }
+
+  /* CTA box */
+  .cta-box {
+    background: var(--surface);
+    border: 2px solid var(--accent);
+    border-radius: 6px;
+    padding: 2rem;
+    margin: 2rem 0;
+    text-align: center;
+  }
+  .cta-box h2 {
+    color: #f0f6fc;
+    font-size: 1.3rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+  .cta-box p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+  }
+  .cta-box a.btn {
+    display: inline-block;
+    background: var(--accent);
+    color: #0d1117;
+    padding: 0.75rem 2rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+  }
+  .cta-box a.btn:hover { opacity: 0.9; text-decoration: none; }
+
+  /* Network footer */
+  .network-footer {
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    padding: 2rem;
+    text-align: center;
+    margin-top: 3rem;
+  }
+  .network-footer p {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+  }
+  .network-footer .links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.75rem;
+  }
+  .network-footer .links a {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+  .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer {
+    margin-top: 1rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+  .network-footer .tagline {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-top: 0.25rem;
+  }
+
+  /* FAQ styling */
+  .faq-item { margin-bottom: 1.25rem; }
+  .faq-item h3 { margin-top: 0; }
+
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; }
+    main { padding: 1.5rem 1rem; }
+    .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; }
+    .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .breadcrumb { padding: 0 1rem; }
+  }
+</style>
+
+<!-- FAQPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a 341 meeting in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 341 meeting, also called the meeting of creditors, is a required proceeding under 11 U.S.C. Section 341 in every bankruptcy case. The bankruptcy trustee asks the debtor questions under oath about their finances, assets, debts, and the accuracy of their bankruptcy paperwork. Despite the name, creditors rarely attend."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the 341 meeting last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most 341 meetings last between 5 and 15 minutes. If the trustee has follow-up questions or needs additional documents, the meeting may be continued to a later date. Complex cases or cases with significant assets may take longer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents do I need to bring to the 341 meeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must bring a valid government-issued photo ID (driver's license or passport) and proof of your Social Security number (Social Security card, W-2, or 1099). Many trustees also require recent pay stubs, the last two years of tax returns, and recent bank statements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the 341 meeting be done by phone or Zoom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Since the COVID-19 pandemic, many bankruptcy courts allow 341 meetings to be conducted by phone or video conference (usually Zoom or similar platforms). Whether your meeting is in-person, by phone, or by video depends on your district and the trustee assigned to your case. Check your meeting notice for specific instructions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a judge present at the 341 meeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. By law, the bankruptcy judge is prohibited from attending the 341 meeting. The meeting is conducted by the case trustee -- a Chapter 7 trustee, Chapter 13 standing trustee, or U.S. Trustee depending on the type of case. This is a statutory requirement under 11 U.S.C. Section 341(c)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I miss my 341 meeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Missing your 341 meeting without prior arrangement can result in your bankruptcy case being dismissed. If you know in advance that you cannot attend, contact your attorney or the trustee's office immediately to request a continuance. The meeting can typically be rescheduled, but you must attend eventually -- it cannot be waived."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Network",
+      "item": "https://1328f.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "341 Meeting",
+      "item": "https://341meeting.org/"
+    }
+  ]
+}
+</script>
+
+<!-- WebPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "The 341 Meeting of Creditors -- What to Expect",
+  "description": "Complete plain-English guide to the 341 meeting of creditors under 11 U.S.C. Section 341. What happens, what the trustee asks, what to bring, and how to prepare.",
+  "url": "https://341meeting.org/",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "341meeting.org",
+    "url": "https://341meeting.org/"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Network",
+        "item": "https://1328f.org/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "341 Meeting",
+        "item": "https://341meeting.org/"
+      }
+    ]
+  }
+}
+</script>
+
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav aria-label="Main navigation">
+  <a href="/" class="site-name">341meeting.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://automaticstay.org">automaticstay.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://relieffromstay.org">relieffromstay.org</a>
+    <a href="https://dischargeinjunction.org">dischargeinjunction.org</a>
+    <a href="https://523a.org">523a.org</a>
+    <a href="https://109g.org">109g.org</a>
+    <a href="https://727a8.org">727a8.org</a>
+  </div>
+</nav>
+
+<div class="breadcrumb" aria-label="Breadcrumb">
+  <a href="https://1328f.org/">Network</a> &rsaquo; <strong>341 Meeting</strong>
+</div>
+
+<header>
+  <h1>The <span class="accent">341 Meeting</span> of Creditors</h1>
+  <p class="subtitle">11 U.S.C. Section 341 -- Your only required court appearance in bankruptcy</p>
+</header>
+
+<main id="main-content">
+
+  <!-- Section 1: What Is the 341 Meeting? -->
+  <div class="content-section">
+    <h2>What Is the 341 Meeting?</h2>
+    <p>The 341 meeting -- formally called the "meeting of creditors" -- is a short proceeding required in every bankruptcy case filed in the United States. It is named after <a href="https://www.law.cornell.edu/uscode/text/11/341">11 U.S.C. Section 341</a>, the federal statute that mandates it. Whether you file Chapter 7, Chapter 13, Chapter 11, or Chapter 12, you will have a 341 meeting.</p>
+    <p>Despite its official name, the 341 meeting is not really a "court appearance" in the traditional sense. There is no judge present -- in fact, the bankruptcy judge is <strong>prohibited by law</strong> from attending. Section 341(c) explicitly states that the court "shall not preside at, and shall not attend, any meeting under this section." The meeting is instead conducted by the trustee assigned to your case.</p>
+    <p>The purpose of the meeting is straightforward: the trustee needs to verify your identity, confirm that you understand what you have filed, and ask questions about your financial situation. It is the trustee's opportunity to look for any assets that might be available to pay creditors (in Chapter 7) or to verify the feasibility of your repayment plan (in Chapter 13).</p>
+    <div class="statute-box">
+      <p><strong>The statute:</strong> 11 U.S.C. Section 341(a) states: "Within a reasonable time after the order for relief in a case under this title, the United States trustee shall convene and preside at a meeting of creditors."</p>
+    </div>
+    <p>For most people filing bankruptcy, the 341 meeting is the <strong>only time</strong> they need to appear. If your case proceeds normally -- no objections, no contested matters -- you will not need to go back to the courthouse (or dial into another call) again. That makes preparation especially important: you want it to go smoothly the first time.</p>
+  </div>
+
+  <!-- Section 2: When Does It Happen? -->
+  <div class="content-section">
+    <h2>When Does the 341 Meeting Happen?</h2>
+    <p>Federal Rule of Bankruptcy Procedure 2003(a) requires that the 341 meeting be held no fewer than <strong>21 days</strong> and no more than <strong>40 days</strong> after the date of the order for relief (which is typically the date the bankruptcy petition is filed). In practice, most meetings are scheduled between 20 and 35 days after filing.</p>
+    <p>After your case is filed, the court clerk or the bankruptcy noticing center (BNC) will mail a notice called the "Notice of Commencement of Case, Meeting of Creditors, and Deadlines." This notice contains:</p>
+    <ul>
+      <li>The date, time, and location (or call-in/Zoom information) for your 341 meeting</li>
+      <li>The name and contact information for the assigned trustee</li>
+      <li>Important deadlines for creditors (proof of claim bar date, objection deadlines)</li>
+      <li>The deadline for filing any complaint to deny your discharge</li>
+    </ul>
+    <p>You do not get to pick the date. The trustee's office sets the schedule based on their calendar and the volume of cases in your district. If you have a genuine conflict (medical procedure, military deployment, etc.), you can contact the trustee's office to request a continuance, but routine scheduling conflicts like work are generally not considered sufficient cause.</p>
+    <div class="warning-box">
+      <p><strong>Do not ignore the date.</strong> If you fail to appear at your 341 meeting without advance arrangement, the trustee can request -- and the court will likely grant -- dismissal of your entire bankruptcy case. Missing the meeting can also trigger a 180-day refiling bar under certain circumstances.</p>
+    </div>
+  </div>
+
+  <!-- Section 3: What Happens at the Meeting? -->
+  <div class="content-section">
+    <h2>What Happens at the Meeting?</h2>
+    <p>The 341 meeting follows a fairly standard procedure across most districts, though some details vary by trustee and region. Here is the general sequence:</p>
+
+    <h3>1. Check-in and Identity Verification</h3>
+    <p>Before the meeting begins, you (or your attorney) will check in with the trustee or the trustee's staff. You will be asked to present identification -- typically a government-issued photo ID and proof of your Social Security number. The trustee is required by federal guidelines to verify that the person testifying is actually the person who filed the case.</p>
+
+    <h3>2. The Oath</h3>
+    <p>The trustee will place you under oath. From that point forward, everything you say is sworn testimony. Lying under oath in a bankruptcy proceeding is a federal crime under <a href="https://www.law.cornell.edu/uscode/text/18/152">18 U.S.C. Section 152</a> (bankruptcy fraud). This does not mean you need to be nervous -- it means you need to be honest. If you do not know the answer to a question, say so. If you are not sure, say you are not sure.</p>
+
+    <h3>3. Trustee's Questions</h3>
+    <p>The trustee will ask a series of questions about your bankruptcy petition, schedules, and statement of financial affairs. Most of these are standard questions that the trustee asks every debtor in every case. The trustee is looking for accuracy, completeness, and any red flags. The questions typically take 5 to 10 minutes.</p>
+
+    <h3>4. Creditor Questions</h3>
+    <p>After the trustee finishes, any creditors who are present (or their attorneys) may ask questions. In practice, creditors rarely appear at 341 meetings in routine consumer cases. When they do show up, it is usually because there is a specific dispute -- a mortgage company concerned about its collateral, a former spouse with a domestic support claim, or an objecting creditor investigating potential fraud.</p>
+
+    <h3>5. Conclusion or Continuance</h3>
+    <p>If the trustee is satisfied, the meeting will be concluded. If the trustee needs additional documents or has follow-up questions, the meeting will be <strong>continued</strong> to a later date. A continuance is not necessarily a bad sign -- sometimes the trustee just needs a bank statement or a pay stub that was not provided in advance.</p>
+  </div>
+
+  <!-- Section 4: Common Trustee Questions -->
+  <div class="content-section">
+    <h2>Common Questions the Trustee Will Ask</h2>
+    <p>While every trustee has their own style, most ask from a standard list. The U.S. Trustee Program publishes suggested questions, and many Chapter 7 and Chapter 13 trustees follow them closely. Here are the questions you should be prepared to answer:</p>
+    <ol>
+      <li>Did you read your bankruptcy petition, schedules, and statement of financial affairs before you signed them?</li>
+      <li>Is all the information in your petition true and correct to the best of your knowledge?</li>
+      <li>Are there any errors or changes that need to be made?</li>
+      <li>Did you list all of your assets -- everything you own or have an interest in?</li>
+      <li>Did you list all of your debts -- everyone you owe money to?</li>
+      <li>Do you own any real estate (house, land, rental property)?</li>
+      <li>Do you own any vehicles?</li>
+      <li>Have you sold, transferred, or given away any property in the last two years (four years for some transfers)?</li>
+      <li>Is anyone holding property for you?</li>
+      <li>Are you entitled to receive any inheritance, life insurance payout, or legal settlement?</li>
+      <li>Have you filed all required tax returns for the last four years?</li>
+      <li>Do you owe any domestic support obligations (child support or alimony)?</li>
+      <li>Have you previously filed for bankruptcy? If so, when and where?</li>
+      <li>Are you a party to any pending lawsuits?</li>
+      <li>Do you have any claims against anyone (personal injury, breach of contract, etc.)?</li>
+      <li>Do you have any safe deposit boxes or storage units?</li>
+      <li>Does anyone owe you money?</li>
+      <li>Have you made any payments over $600 to any one creditor in the 90 days before filing (one year for insiders)?</li>
+      <li>Is the address on your petition your current address?</li>
+      <li>Do you understand the difference between a Chapter 7 and a Chapter 13 bankruptcy? (Chapter 7 filers only)</li>
+    </ol>
+    <div class="green-box">
+      <p><strong>Key principle:</strong> The trustee is not trying to trick you. They are trying to verify your paperwork and identify any issues. If your schedules are accurate and complete, the meeting should be straightforward.</p>
+    </div>
+  </div>
+
+  <!-- Section 5: Documents to Bring -->
+  <div class="content-section">
+    <h2>Documents to Bring</h2>
+    <p>Federal guidelines and local rules require you to bring specific documents to the 341 meeting. Failure to bring the right paperwork is one of the most common reasons meetings get continued. Here is what you should have ready:</p>
+
+    <h3>Required (Every District)</h3>
+    <ul>
+      <li><strong>Government-issued photo ID</strong> -- driver's license, state ID, passport, or military ID. The ID must be current (not expired).</li>
+      <li><strong>Proof of Social Security number</strong> -- Social Security card, W-2 form, 1099 form, or pay stub showing your full SSN. A Medicare card or Social Security award letter also works in many districts.</li>
+    </ul>
+
+    <h3>Commonly Required (Varies by Trustee)</h3>
+    <ul>
+      <li><strong>Most recent federal tax return</strong> -- some trustees require the last two years. Bring the full return, not just the first two pages.</li>
+      <li><strong>Last 60 days of pay stubs</strong> -- or other proof of income if self-employed (profit/loss statements, 1099s).</li>
+      <li><strong>Last 60 days of bank statements</strong> -- for all accounts (checking, savings, business accounts).</li>
+      <li><strong>Vehicle titles or registration</strong> -- if you own any vehicles.</li>
+      <li><strong>Mortgage statements or property tax records</strong> -- if you own real estate.</li>
+      <li><strong>Business financial records</strong> -- if you are self-employed or own a business (profit/loss statements, recent tax returns, accounts receivable).</li>
+    </ul>
+    <div class="statute-box">
+      <p><strong>Pro tip:</strong> Check with your attorney or the trustee's office before the meeting to confirm exactly what documents are required in your district. Some trustees publish a document checklist on their website. Being over-prepared is always better than being under-prepared.</p>
+    </div>
+  </div>
+
+  <!-- Section 6: Zoom, Phone, or In-Person? -->
+  <div class="content-section">
+    <h2>Zoom, Phone, or In-Person?</h2>
+    <p>Before the COVID-19 pandemic, virtually all 341 meetings were conducted in person at the bankruptcy courthouse or a nearby federal building. The pandemic changed that dramatically, and many districts shifted to phone or video conferences -- a change that has largely stuck.</p>
+    <p>As of 2024-2025, the format varies significantly by district:</p>
+    <ul>
+      <li><strong>Fully virtual (phone/Zoom)</strong> -- Many districts now conduct all 341 meetings remotely. The debtor calls in or joins a video link from home. This is especially common in large metropolitan districts.</li>
+      <li><strong>Hybrid</strong> -- Some districts offer both options, or the trustee may conduct meetings in person on certain days and remotely on others.</li>
+      <li><strong>In-person</strong> -- A smaller number of districts have returned to fully in-person meetings, particularly in rural areas.</li>
+    </ul>
+    <p>Your meeting notice will specify the format and include any dial-in numbers, Zoom links, or meeting room locations. If you are doing a video meeting, the trustee will still need to verify your ID -- many trustees ask you to hold your ID up to the camera, email a copy in advance, or submit it through a secure portal.</p>
+    <div class="green-box">
+      <p><strong>How to check your district:</strong> Look at the meeting notice you received from the court. You can also check the trustee's website (if they have one) or call the trustee's office. The U.S. Trustee Program website at <a href="https://www.justice.gov/ust">justice.gov/ust</a> lists trustees and their contact information by district.</p>
+    </div>
+  </div>
+
+  <!-- Section 7: How Long Does It Take? -->
+  <div class="content-section">
+    <h2>How Long Does It Take?</h2>
+    <p>The typical 341 meeting lasts <strong>5 to 15 minutes</strong>. In routine consumer cases with no complications, many meetings are done in under 10 minutes. The trustee has a packed docket -- they may have 20 or 30 meetings scheduled on the same day -- so they move efficiently.</p>
+    <p>However, several factors can extend the meeting:</p>
+    <ul>
+      <li><strong>Missing documents</strong> -- If you did not provide required records, the trustee will continue the meeting to give you time to produce them.</li>
+      <li><strong>Complex assets</strong> -- Real estate, business interests, pending lawsuits, or unusual property can generate more questions.</li>
+      <li><strong>Creditor objections</strong> -- If a creditor or creditor's attorney appears and asks questions, the meeting will take longer.</li>
+      <li><strong>Discrepancies in paperwork</strong> -- If the trustee spots errors, omissions, or inconsistencies in your schedules, expect follow-up questions.</li>
+      <li><strong>Prior filings</strong> -- If you have filed bankruptcy before, the trustee may ask more detailed questions about what happened in the earlier case.</li>
+    </ul>
+    <p>Even if the meeting itself is short, plan to be available for at least an hour. If your meeting is in-person, you may have to wait while the trustee works through cases scheduled before yours. If it is by phone or video, you may be in a virtual waiting room.</p>
+  </div>
+
+  <!-- Section 8: What If Creditors Show Up? -->
+  <div class="content-section">
+    <h2>What If Creditors Show Up?</h2>
+    <p>The meeting is called the "meeting of creditors" because creditors have the legal right to attend and ask questions. In practice, creditors show up at a small minority of consumer 341 meetings -- roughly 5-10% of the time, and even less in straightforward cases.</p>
+    <p>When creditors do attend, they are usually:</p>
+    <ul>
+      <li><strong>Secured creditors</strong> investigating whether their collateral is adequately protected (mortgage companies, car lenders)</li>
+      <li><strong>Former spouses or domestic support claimants</strong> verifying the debtor's income and ability to pay</li>
+      <li><strong>Creditors investigating potential fraud</strong> -- for example, a credit card company that suspects the debtor ran up charges with no intention of repaying</li>
+      <li><strong>Judgment creditors</strong> trying to determine whether their debt might be nondischargeable under Section 523(a)</li>
+    </ul>
+    <p>Creditors can ask questions, but they must be relevant to the bankruptcy case. They cannot harass you or ask irrelevant personal questions. The trustee controls the meeting and can cut off inappropriate questioning. If a creditor gets out of line, the trustee will intervene.</p>
+    <div class="statute-box">
+      <p><strong>Important:</strong> Even if a creditor attends and asks tough questions at the 341 meeting, this does not mean they are objecting to your discharge. A creditor who wants to challenge your discharge or assert that a debt is nondischargeable must file a formal adversary proceeding in the bankruptcy court -- the 341 meeting is just a fact-finding opportunity.</p>
+    </div>
+  </div>
+
+  <!-- Section 9: Tips for a Smooth Meeting -->
+  <div class="content-section">
+    <h2>Tips for a Smooth Meeting</h2>
+    <p>Attorneys who attend dozens of 341 meetings a month will tell you the same things over and over. Here is what actually matters:</p>
+    <ul>
+      <li><strong>Be honest.</strong> This is the most important rule. You are under oath. If the trustee catches a lie, the consequences are severe -- denial of discharge, case dismissal, or even criminal prosecution. If you do not know the answer, say "I don't know." If you are not sure, say "I'm not sure."</li>
+      <li><strong>Answer briefly.</strong> Answer the question that was asked and stop. Do not volunteer additional information. Do not explain the story behind every debt. The trustee does not need your life story -- they need specific facts.</li>
+      <li><strong>Do not argue.</strong> If the trustee says something you disagree with, do not argue at the meeting. Your attorney can address it later. The meeting is not the time or place for legal arguments.</li>
+      <li><strong>Bring all your documents.</strong> The number one reason meetings get continued is missing documents. Bring everything on the checklist. Bring extra copies.</li>
+      <li><strong>Dress normally.</strong> You do not need to wear a suit. Business casual or neat casual is fine. This is not a trial -- it is an administrative proceeding.</li>
+      <li><strong>Arrive early.</strong> If in-person, arrive 15-20 minutes before your scheduled time. If by phone/video, be on the line 5-10 minutes early. Late arrivals can result in your meeting being moved to the end of the docket or continued entirely.</li>
+      <li><strong>Review your paperwork.</strong> Before the meeting, re-read your petition, schedules, and statement of financial affairs. The trustee will ask you if you have reviewed them. If there are errors, tell your attorney before the meeting so amendments can be prepared.</li>
+      <li><strong>Silence your phone.</strong> This sounds trivial, but a ringing phone in the middle of a 341 meeting is disrespectful to the trustee and to other debtors waiting their turn.</li>
+    </ul>
+    <div class="warning-box">
+      <p><strong>If you are filing pro se (without an attorney):</strong> You have the same obligations as any other debtor. The trustee will not give you legal advice. If you do not understand a question, ask the trustee to rephrase it. Consider consulting a bankruptcy attorney before the meeting even if you cannot afford full representation -- many offer limited-scope consultations.</p>
+    </div>
+  </div>
+
+  <!-- Section 10: What Happens After the Meeting? -->
+  <div class="content-section">
+    <h2>What Happens After the Meeting?</h2>
+    <p>What happens next depends on the chapter you filed under:</p>
+
+    <h3>Chapter 7</h3>
+    <p>If the trustee concludes the meeting and reports a "no-asset" case (no non-exempt property available for distribution), the process moves toward discharge. Creditors have 60 days from the first date set for the 341 meeting to file objections to discharge or complaints to determine nondischargeability. If no objections are filed, you will typically receive your discharge order approximately 60-90 days after the 341 meeting.</p>
+
+    <h3>Chapter 13</h3>
+    <p>After the 341 meeting, your case moves toward plan confirmation. The trustee will review your proposed repayment plan, and a confirmation hearing will be scheduled before the bankruptcy judge (this is separate from the 341 meeting). The trustee may request modifications to your plan -- for example, increasing your monthly payment or adjusting how certain creditors are treated. Once the plan is confirmed, you will make payments to the trustee for 36 to 60 months.</p>
+
+    <h3>Chapter 11</h3>
+    <p>In Chapter 11 cases (including Subchapter V small business cases), the 341 meeting serves a similar function but may be more detailed. The debtor (or the debtor's representative, in a corporate case) will face questions about the business operations, financial projections, and proposed plan of reorganization. After the meeting, the case proceeds toward plan confirmation through a separate process involving disclosure statements and voting.</p>
+
+    <h3>If the Meeting Is Continued</h3>
+    <p>A continuance means the meeting is not over -- it will resume on a future date. This typically happens because the trustee needs additional documents, there is an issue with the schedules that needs to be corrected, or the trustee wants to investigate a specific asset or transaction. The trustee will tell you (or your attorney) what is needed. Make sure you provide it before the continued date.</p>
+    <div class="green-box">
+      <p><strong>The 341 meeting is a checkpoint, not a verdict.</strong> Successfully completing your 341 meeting does not mean your case is over -- it means you have passed one important procedural milestone. In Chapter 7, you are on the path to discharge. In Chapter 13, you are on the path to plan confirmation. The finish line is still ahead.</p>
+    </div>
+  </div>
+
+  <!-- Section 11: Chapter-Specific Differences -->
+  <div class="content-section">
+    <h2>Chapter-Specific Differences</h2>
+    <p>While the basic structure of the 341 meeting is the same across all chapters, there are important differences in emphasis:</p>
+
+    <h3>Chapter 7: Asset Focus</h3>
+    <p>The Chapter 7 trustee's primary job is to find non-exempt assets that can be liquidated and distributed to creditors. The trustee will focus heavily on what you own, what exemptions you have claimed, whether you have transferred any property recently, and whether there are any avoidable preferences or fraudulent transfers. If the trustee determines there are no non-exempt assets, the case is reported as a "no-asset" case and moves toward discharge.</p>
+
+    <h3>Chapter 13: Feasibility Focus</h3>
+    <p>The Chapter 13 trustee is more interested in whether your proposed plan is feasible -- can you actually make the monthly payments? The trustee will focus on your income, expenses, and whether you are paying at least as much as creditors would receive in a Chapter 7 liquidation (the "best interest of creditors" test). The trustee will also verify that your plan runs for the correct length -- 36 months if your income is below the state median, 60 months if above.</p>
+
+    <h3>Chapter 11 and Subchapter V</h3>
+    <p>In Chapter 11 cases, the U.S. Trustee (not a private trustee) typically conducts the meeting. Questions focus on business operations, cash flow, management decisions, and the debtor's ability to reorganize. In Subchapter V small business cases, a private trustee is appointed, and the meeting may feel more like a Chapter 13 proceeding focused on the debtor's projected disposable income and plan feasibility.</p>
+  </div>
+
+  <!-- CTA Box -->
+  <div class="cta-box">
+    <h2>Filed Bankruptcy Before?</h2>
+    <p>If this is not your first bankruptcy, you may face restrictions on getting a discharge. Use the free screener to check whether you are eligible.</p>
+    <a href="https://1328f.com" class="btn">Check Discharge Eligibility</a>
+  </div>
+
+  <!-- Section 12: Frequently Asked Questions -->
+  <div class="content-section">
+    <h2>Frequently Asked Questions</h2>
+
+    <div class="faq-item">
+      <h3>Can I reschedule my 341 meeting?</h3>
+      <p>You can request a continuance by contacting the trustee's office before the meeting date. The trustee has discretion to grant or deny the request. Valid reasons include medical emergencies, military deployment, or the inability to obtain required documents in time. "I have to work" is generally not considered sufficient -- most employers are required to allow time off for court proceedings.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Will anyone else be in the room?</h3>
+      <p>Yes. 341 meetings are open to the public. Other debtors and their attorneys will likely be in the room (or on the call) waiting for their own meetings. This means strangers may hear your questions and answers. If you are uncomfortable with this, know that it is the same for everyone -- and frankly, no one is paying attention to your case because they are focused on their own.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Do I need a lawyer for the 341 meeting?</h3>
+      <p>You are not legally required to have an attorney. However, having one is strongly recommended. Your attorney can prepare you for the questions, handle any issues that arise, and communicate with the trustee on your behalf. If you are filing pro se, you should at minimum consult with a bankruptcy attorney before the meeting to make sure your paperwork is in order.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Can I bring someone with me for support?</h3>
+      <p>Yes. You can bring a spouse, family member, or friend. They will not be allowed to answer questions for you or speak on your behalf (unless they are a co-debtor in a joint case), but having someone there for moral support is perfectly fine.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>What if I cannot find my Social Security card?</h3>
+      <p>You can use alternative documentation showing your full Social Security number: a W-2 form, 1099 form, Social Security Administration award letter, or in some districts, a pay stub with your full SSN. Contact the trustee's office in advance to confirm what alternatives they accept. If you have no documentation at all, you may need to request a replacement card from the Social Security Administration before the meeting.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Is the 341 meeting recorded?</h3>
+      <p>Yes. The trustee is required to record the meeting. The recording becomes part of the case record. In some districts, you can request a copy of the recording through the trustee's office. The recording is another reason to be careful and truthful in your answers -- everything is on the record.</p>
+    </div>
+  </div>
+
+</main>
+
+<footer class="network-footer" role="contentinfo">
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+  <p class="tagline">Real information, no strings.</p>
+  <div class="links">
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://automaticstay.org">automaticstay.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://relieffromstay.org">relieffromstay.org</a>
+    <a href="https://dischargeinjunction.org">dischargeinjunction.org</a>
+    <a href="https://523a.org">523a.org</a>
+    <a href="https://109g.org">109g.org</a>
+    <a href="https://727a8.org">727a8.org</a>
+    <a href="https://ko-fi.com/bankruptcytransparency">Ko-fi</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
+</footer>
+
+</body>
+</html>
