@@ -7,69 +7,33 @@
 <meta name="theme-color" content="#0d1117">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <style>
-  :root {
-    --bg: #0d1117;
-    --surface: #161b22;
-    --border: #30363d;
-    --text: #e6edf3;
-    --text-muted: #9eaab6;
-    --accent: #58a6ff;
-  }
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.7;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-  }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  nav {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 0.75rem 1.5rem;
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-  }
-  .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; }
-  .nav-links { display: flex; gap: 1rem; flex-wrap: wrap; }
-  .nav-links a { font-size: 0.85rem; }
-  .container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 4rem 2rem;
-    text-align: center;
-    flex: 1;
-  }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; min-height: 100vh; display: flex; flex-direction: column; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .hamburger { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.3rem; cursor: pointer; padding: 0.3rem 0.6rem; border-radius: 4px; line-height: 1; }
+  .container { max-width: 600px; margin: 0 auto; padding: 4rem 2rem; text-align: center; flex: 1; }
   h1 { color: #f0f6fc; font-size: 2.5rem; margin-bottom: 1rem; }
   .message { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 2rem; }
-  .actions { display: flex; flex-direction: column; gap: 1.5rem; align-items: center; }
-  .actions a.primary {
-    display: inline-block;
-    background: #238636;
-    color: #fff;
-    padding: 0.6rem 1.5rem;
-    border-radius: 6px;
-    font-weight: 600;
-    font-size: 1rem;
-  }
+  .actions { display: flex; flex-direction: column; gap: 1rem; align-items: center; }
+  .actions a.primary { display: inline-block; background: #238636; color: #fff; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 1rem; }
   .actions a.primary:hover { background: #2ea043; text-decoration: none; }
-  .network { margin-top: 2rem; }
-  .network p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.5rem; }
-  .network-links { display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; }
-  .network-links a { font-size: 0.85rem; }
-  footer {
-    background: var(--surface);
-    border-top: 1px solid var(--border);
-    padding: 1.5rem;
-    text-align: center;
-    font-size: 0.8rem;
-    color: var(--text-muted);
+  .page-list { text-align: left; max-width: 400px; margin: 2rem auto 0; }
+  .page-list p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.5rem; font-weight: 600; }
+  .page-list ul { list-style: none; }
+  .page-list li { padding: 0.3rem 0; }
+  .page-list li a { font-size: 0.9rem; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 1.5rem; text-align: center; font-size: 0.8rem; color: var(--text-muted); }
+  @media (max-width: 768px) {
+    .hamburger { display: inline-block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0; }
+    .nav-links.open { display: flex; }
+    .nav-links a { display: block; padding: 0.6rem 0; font-size: 0.95rem; min-height: 44px; line-height: 2; border-bottom: 1px solid #21262d; }
   }
 </style>
 </head>
@@ -77,52 +41,51 @@
 
 <nav aria-label="Main navigation">
   <a href="/" class="site-name">341meeting.org</a>
-  <div class="nav-links">
-    <a href="https://1328f.com">1328f.com</a>
-    <a href="https://1328f.org">1328f.org</a>
+  <button class="hamburger" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776;</button>
+  <div class="nav-links" id="nav-links">
+    <a href="/">Home</a>
+    <a href="what-to-expect.html">What to Expect</a>
+    <a href="questions-they-ask.html">Questions</a>
+    <a href="documents-to-bring.html">Documents</a>
+    <a href="phone-vs-in-person.html">Phone vs In-Person</a>
+    <a href="what-happens-if-you-miss.html">If You Miss It</a>
+    <a href="chapter-7-vs-chapter-13.html">Ch. 7 vs Ch. 13</a>
   </div>
 </nav>
 
 <div class="container">
   <h1>Page Not Found</h1>
-  <p class="message">The page you're looking for doesn't exist or has been moved.</p>
+  <p class="message">The page you are looking for does not exist or has been moved.</p>
   <div class="actions">
     <a href="/" class="primary">Back to 341meeting.org</a>
-    <a href="https://1328f.com">Check your bankruptcy discharge eligibility</a>
   </div>
-  <div class="network">
-    <p>Other resources in the Bankruptcy Transparency Network:</p>
-    <div class="network-links">
-      <a href="https://automaticstay.org">automaticstay.org</a>
-      <a href="https://meanstest.org">meanstest.org</a>
-      <a href="https://523a.org">523a.org</a>
-      <a href="https://109g.org">109g.org</a>
-      <a href="https://727a8.com">727a8.com</a>
-      <a href="https://relieffromstay.org">relieffromstay.org</a>
-      <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
-      <a href="https://prosedebtors.org">prosedebtors.org</a>
-    </div>
+  <div class="page-list">
+    <p>All pages on this site:</p>
+    <ul>
+      <li><a href="/">Home -- 341 Meeting Overview</a></li>
+      <li><a href="what-to-expect.html">What to Expect at Your 341 Meeting</a></li>
+      <li><a href="questions-they-ask.html">Questions Trustees Ask</a></li>
+      <li><a href="documents-to-bring.html">Documents to Bring</a></li>
+      <li><a href="phone-vs-in-person.html">Phone vs In-Person Meetings</a></li>
+      <li><a href="what-happens-if-you-miss.html">What Happens If You Miss It</a></li>
+      <li><a href="chapter-7-vs-chapter-13.html">Chapter 7 vs Chapter 13</a></li>
+    </ul>
   </div>
 </div>
 
 <footer role="contentinfo">
-  <p>This site provides general information only and does not constitute legal advice.</p>
+  <p>Free bankruptcy education. Not legal advice.</p>
 </footer>
 
-
-<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations fund PACER access fees and our goal of forming a 501(c)(3) nonprofit for bankruptcy court transparency.</p>
-<a href="https://ko-fi.com/ilikemath9999" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Support on Ko-fi</a>
-</div>
-
-<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
-  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
-  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
-  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
-  <p style="margin-bottom:0.25rem"><span style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
-  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing. 0 supporters so far.</p>
-  <a href="https://ko-fi.com/ilikemath9999" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Fund this research</a>
-</div>
-
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var btn = document.querySelector('.hamburger');
+  if (btn) btn.addEventListener('click', function() {
+    var links = document.getElementById('nav-links');
+    links.classList.toggle('open');
+    btn.setAttribute('aria-expanded', links.classList.contains('open'));
+  });
+});
+</script>
 </body>
 </html>
