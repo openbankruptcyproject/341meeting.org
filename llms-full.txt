@@ -1,0 +1,2427 @@
+# 341meeting.org -- Full Content
+
+This file contains the full text content of all pages on 341meeting.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## 341 Meeting: Chapter 7 vs Chapter 13 Differences
+Source: https://341meeting.org/chapter-7-vs-chapter-13.html
+
+341meeting.org
+☰
+
+Home
+What to Expect
+Questions
+Documents
+Phone vs In-Person
+If You Miss It
+Ch. 7 vs Ch. 13
+
+Home / Chapter 7 vs Chapter 13
+
+Chapter 7 vs Chapter 13: How the 341 Meeting Differs
+
+Same meeting name, different trustee, different questions, different focus.
+
+Side-by-side comparison
+
+Feature
+Chapter 7
+Chapter 13
+
+Trustee type
+Panel trustee (rotates per case)
+Standing trustee (same for all cases in area)
+
+Primary focus
+Non-exempt assets to liquidate
+Income and plan feasibility
+
+Typical duration
+5-10 minutes
+5-15 minutes
+
+Key questions
+Property values, transfers, exemptions
+Income, expenses, plan payment ability
+
+Creditor attendance
+Very rare
+Slightly more common
+
+Reaffirmation discussion
+Common (car loans, etc.)
+Not applicable (debts handled through plan)
+
+What comes next
+60-day objection period, then discharge
+Plan confirmation hearing
+
+Outcome if "no asset"
+Meeting concluded, case toward discharge
+N/A (Chapter 13 always has a plan)
+
+The Chapter 7 meeting
+
+Who runs it
+
+A Chapter 7 panel trustee is a private attorney appointed from a pool maintained by the U.S. Trustee. Each case is randomly assigned a different panel trustee. The trustee earns a fee only if they find and liquidate assets -- in most consumer cases, they do not find anything, and the case is a "no asset" case.
+
+What they are looking for
+
+The Chapter 7 trustee has one primary job: find non-exempt assets that can be sold to pay creditors. This means they focus on:
+
+Property values: Is your car worth more than what you owe plus your exemption?
+
+Home equity: Is there equity beyond the homestead exemption?
+
+Bank balances: Was there excess cash in your accounts on the filing date?
+
+Tax refunds: Are you expecting a large refund?
+
+Transfers: Did you give away or sell property before filing to keep it out of the estate?
+
+Unreported assets: Did you forget (or "forget") to list something?
+
+Typical Chapter 7 meeting flow
+
+ID and SSN verification
+
+Oath administered
+
+Standard questions (petition accuracy, asset disclosure, transfers)
+
+Quick review of scheduled assets -- trustee may ask about specific items
+
+Reaffirmation discussion (if applicable -- usually car loans)
+
+Meeting concluded or continued
+
+Most Chapter 7 meetings are uneventful. Approximately 95% of consumer Chapter 7 cases are "no asset" cases. The trustee confirms there is nothing to liquidate, concludes the meeting, and moves on to the next case.
+
+Reaffirmation in Chapter 7
+
+A topic unique to Chapter 7: reaffirmation. If you have a car loan or other secured debt you want to keep, the trustee may ask whether you plan to reaffirm (agree to keep paying) or surrender the property. Your attorney should have discussed this with you before the meeting. The trustee may ask:
+
+"Do you intend to reaffirm the debt on your vehicle?"
+
+"Has your attorney advised you about the reaffirmation agreement?"
+
+"Are you current on your car payments?"
+
+The Chapter 13 meeting
+
+Who runs it
+
+A Chapter 13 standing trustee is a permanent, full-time trustee assigned to a specific geographic region. Unlike Chapter 7 panel trustees who rotate, the standing trustee handles every Chapter 13 case in their territory. They know the local attorneys, the local practices, and they have seen thousands of plans.
+
+What they are looking for
+
+The Chapter 13 trustee's main concern is whether your repayment plan is feasible and compliant with the Bankruptcy Code. They focus on:
+
+Income verification: Does your actual income match what your petition says?
+
+Expense reasonableness: Are your listed expenses realistic or inflated?
+
+Plan payment ability: Can you actually afford the monthly plan payment?
+
+Disposable income: Are you committing all disposable income to the plan (as required)?
+
+Tax return compliance: Have you filed all required tax returns?
+
+Domestic support obligations: Are you current on child support or alimony?
+
+Typical Chapter 13 meeting flow
+
+ID and SSN verification
+
+Oath administered
+
+Standard questions (petition accuracy, asset disclosure, transfers)
+
+Income questions -- current earnings, sources, changes since filing
+
+Expense review -- the trustee may challenge specific budget items
+
+Plan payment confirmation -- "Can you afford $X per month for 36-60 months?"
+
+Discussion of any outstanding issues with the plan
+
+Meeting concluded or continued
+
+Chapter 13 meetings are more likely to be continued than Chapter 7 meetings. This is because the plan may not be finalized yet, tax returns may be outstanding, or the trustee may need additional financial documentation. A continuation is not a failure -- it is just part of the process.
+
+Income complications in Chapter 13
+
+If you have straightforward W-2 income, the Chapter 13 meeting is simple. But certain income situations lead to more scrutiny:
+
+Self-employment: The trustee will want profit-and-loss statements, business bank statements, and may question whether business expenses are legitimate or inflated
+
+Overtime or commission income: The trustee may ask about the stability of this income and whether your plan relies on it
+
+Household contributions: If a non-filing spouse or household member contributes to expenses, the trustee may ask about their income
+
+Side income: Gig work, rental income, cash jobs -- all must be disclosed and may affect your plan payment
+
+Recent job change: If you changed jobs since filing, the trustee will ask about your new income
+
+Creditor attendance differences
+
+Creditors rarely attend 341 meetings in either chapter, but they are slightly more likely to attend in Chapter 13 cases. Here is why:
+
+Mortgage lenders may attend Chapter 13 meetings if there are arrears being cured through the plan, to confirm the debtor's intentions
+
+Car lenders are more likely to attend Chapter 7 meetings to discuss reaffirmation or surrender
+
+Credit card companies almost never attend in either chapter
+
+Tax authorities (IRS, state) occasionally attend if there are significant tax debts
+
+After the meeting
+
+After a Chapter 7 meeting
+
+If the trustee concludes the meeting as a "no asset" case, the clock starts on a 60-day period during which creditors can object to your discharge. If no objections are filed, the court enters your discharge -- typically about 90 days after the 341 meeting. You are done.
+
+After a Chapter 13 meeting
+
+The 341 meeting is just one step. After the meeting, your case moves toward plan confirmation, which is a separate court hearing (sometimes before the judge). The standing trustee may file a recommendation supporting or opposing your plan. If confirmed, you make plan payments for 36 to 60 months. Your discharge comes at the end of the plan, years later.
+
+The same statute governs both: 11 U.S.C. § 341 requires a meeting of creditors in every case regardless of chapter. The same statute, 11 U.S.C. § 343, requires the debtor to appear and testify under oath. What differs is the trustee's role, focus, and what happens next.
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Related Guides
+
+What Happens at a 341 Meeting
+
+Free bankruptcy information guide
+
+341meeting.com →
+
+Understanding the Bankruptcy Trustee
+
+Free bankruptcy information guide
+
+bankruptcytrustee.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+What to Expect ·
+Questions ·
+Documents ·
+Phone vs In-Person ·
+Ch. 7 vs Ch. 13
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## Documents to Bring to Your 341 Meeting
+Source: https://341meeting.org/documents-to-bring.html
+
+Skip to main content
+
+341meeting.org
+
+Home
+What to Expect
+Questions Asked
+Documents
+Zoom & Phone
+What If I Miss It?
+
+Documents to Bring to Your 341 Meeting
+
+A complete checklist so you do not show up unprepared
+
+Showing up to your 341 meeting without the right documents can result in a continuance -- meaning the meeting gets rescheduled, which delays your entire case. Use this checklist to make sure you have everything you need.
+
+Required by Every Trustee
+
+These documents are mandatory in every bankruptcy district. Without them, the trustee cannot proceed.
+
+✓
+
+Government-issued photo ID Required
+
+Driver's license, state ID, passport, or military ID. It must be current (not expired) and include your photo.
+
+✓
+
+Proof of Social Security number Required
+
+Social Security card, W-2, 1099, or SSA-1099 showing your full Social Security number. A document showing only the last four digits is not sufficient. If you have lost your Social Security card, a W-2 or tax document with the full number works.
+
+Commonly Required (Varies by District)
+
+Most trustees require these, but requirements vary by district. Your attorney will tell you which ones apply in your court.
+
+✓
+
+Most recent federal tax return Commonly required
+
+Typically the full return (not just the first two pages). Under 11 U.S.C. Section 521(e)(2), you must provide your tax return to the trustee at least 7 days before the meeting.
+
+✓
+
+Pay stubs -- last 60 days Commonly required
+
+Under Section 521(a)(1)(B)(iv), you must provide evidence of your current income. Bring all pay stubs received in the 60 days before you filed.
+
+✓
+
+Bank statements -- last 60 to 90 days Commonly required
+
+Statements for all accounts listed in your schedules. Some trustees request 90 days; others want 60 days. Include checking, savings, and any other deposit accounts.
+
+✓
+
+Vehicle titles or registration Commonly required
+
+If you own vehicles, bring proof of ownership. The trustee may want to verify the value you listed.
+
+✓
+
+Mortgage statements or lease agreements Commonly required
+
+Current statements showing your balance, payment amount, and lender.
+
+May Be Requested in Specific Situations
+
+These documents are not always needed but may be requested depending on your case.
+
+✓
+
+Business records
+
+If you own or recently owned a business: profit and loss statements, business bank statements, and business tax returns.
+
+✓
+
+Real estate appraisals or valuations
+
+If you own real property, the trustee may request a recent appraisal or comparable sales data to verify the value you listed.
+
+✓
+
+Divorce decree or separation agreement
+
+If you have domestic support obligations or recently divided property in a divorce.
+
+✓
+
+Retirement account statements
+
+401(k), IRA, or pension statements showing current balances.
+
+✓
+
+Insurance policies
+
+Life insurance policies with cash surrender value, or property insurance declarations pages.
+
+For Virtual Meetings
+
+If your 341 meeting is by phone or Zoom, you may need to submit documents electronically before the meeting. Check your court's instructions and our guide to virtual meetings.
+
+Many trustees now accept documents uploaded to a secure portal, emailed as PDFs, or shown on camera during the meeting. Your attorney will know the specific process for your trustee.
+
+Pro Tips
+
+Make copies. Bring originals and copies of everything. The trustee may want to keep copies.
+
+Organize by category. Put documents in order: ID first, then tax returns, then pay stubs, then bank statements.
+
+Ask your attorney for a specific list. Requirements vary by district and by individual trustee. Your attorney should know exactly what your trustee expects.
+
+Do not bring documents you were not asked for. There is no need to bring stacks of credit card statements or collection letters unless specifically requested.
+
+If you are missing something, tell your attorney now. It is better to request a continuance in advance than to show up without required documents.
+
+Related Guides
+
+What to expect at your 341 meeting
+
+Questions the trustee will ask
+
+Virtual 341 meetings: Zoom and phone
+
+Free bankruptcy discharge screener
+
+Not legal advice. This site provides general information about the Section 341 meeting of creditors in bankruptcy. It is not a substitute for advice from a licensed attorney. Every case is different. If you have questions about your specific situation, consult with a qualified bankruptcy attorney in your jurisdiction.
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Related Guides
+
+What Happens at a 341 Meeting
+
+Free bankruptcy information guide
+
+341meeting.com →
+
+Understanding the Bankruptcy Trustee
+
+Free bankruptcy information guide
+
+bankruptcytrustee.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+automaticstay.org
+727a8.com
+524injunction.com
+filebankruptcyagain.com
+bankruptcycost.com
+bankruptcydismissed.com
+
+© 2026 341meeting.org. Open data, open tools, open access to justice.
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## 341 Meeting of Creditors -- What to Expect [2026]
+Source: https://341meeting.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+341meeting.org
+☰
+
+Home
+What to Expect
+Questions
+Documents
+Phone vs In-Person
+If You Miss It
+Ch. 7 vs Ch. 13
+EN / ES
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+341 Meeting of Creditors
+
+Your lawyer said you have a 341 meeting coming up. Here is what actually happens, what to bring, and why it is not as scary as it sounds.
+
+5-15 min
+Typical meeting duration
+
+20-50 days
+After filing, before meeting
+
+~750K
+341 meetings held yearly in the U.S.
+
+What is the 341 meeting?
+
+The 341 meeting of creditors -- named after 11 U.S.C. § 341 -- is a required proceeding in every bankruptcy case. It is not a court hearing and the judge does not attend. Instead, the bankruptcy trustee assigned to your case asks you questions under oath about your finances, assets, and debts.
+
+The name "meeting of creditors" is misleading. In most consumer bankruptcy cases, no creditors show up. The meeting is really between you and the trustee.
+
+It is the only mandatory appearance in most bankruptcy cases. If your case goes smoothly, you will never set foot in a courtroom.
+
+11 U.S.C. § 341(a): "Within a reasonable time after the order for relief in a case under this title, the United States trustee shall convene and preside at a meeting of creditors."
+
+11 U.S.C. § 341(c): The bankruptcy judge may not preside at, and may not attend, any meeting under this section.
+
+Explore the guide
+
+We built separate pages for each topic people search for most. Pick what you need:
+
+What to Expect
+
+Step-by-step walkthrough from arrival to adjournment. What the trustee does. What you do. How long it takes.
+
+Questions Trustees Ask
+
+The actual questions you will hear, organized by chapter. Income, assets, transfers, reaffirmation -- all covered.
+
+Documents to Bring
+
+Checklist of required and recommended documents. ID, SSN proof, tax returns, pay stubs, bank statements, and more.
+
+Phone vs In-Person
+
+Post-COVID guide. Most meetings are now by phone or Zoom. How to set up, what to wear on video, tech tips.
+
+What If You Miss It?
+
+Consequences of missing your meeting. Rescheduling options. When the court dismisses your case.
+
+Chapter 7 vs Chapter 13
+
+How the 341 meeting differs depending on your chapter. Different trustees, different questions, different focus.
+
+Quick answers
+
+How long does it last?
+
+Most 341 meetings last 5 to 15 minutes. If there are no complications with your paperwork and the trustee has no concerns, it can be even shorter. The trustee typically has dozens of meetings scheduled back-to-back, so they move quickly.
+
+Do creditors actually show up?
+
+Rarely. In the vast majority of consumer cases, no creditors attend. When they do, it is usually a mortgage lender or car lender with a specific question about reaffirmation or collateral. If a creditor does attend, they can ask questions, but the trustee controls the meeting.
+
+Is it at the courthouse?
+
+Not exactly. Before 2020, 341 meetings were held at federal buildings -- usually in a meeting room, not a courtroom. Since COVID-19, most districts shifted to telephone or video conferences, and many have kept that format permanently. Your notice of meeting will tell you the format.
+
+Do I need a lawyer?
+
+You are not required to have an attorney at the 341 meeting, but most people who file with a lawyer will have their attorney present (by phone or in person). If you filed pro se (without a lawyer), you attend alone. The trustee's questions are straightforward if your petition is accurate.
+
+Chapter 7 vs Chapter 13 at a glance
+
+Feature
+Chapter 7
+Chapter 13
+
+Who runs it
+Panel trustee
+Standing trustee
+
+Main focus
+Assets and exemptions
+Income and plan feasibility
+
+Typical duration
+5-10 minutes
+5-15 minutes
+
+Creditor attendance
+Very rare
+Slightly more common
+
+Common outcome
+Meeting concluded
+Meeting concluded or continued
+
+Read the full comparison →
+
+What to bring -- the short version
+
+Government-issued photo ID -- driver's license, passport, or state ID
+
+Social Security card or other proof of your SSN
+
+Copy of your bankruptcy petition and schedules
+
+Most recent tax return
+
+Recent pay stubs (last 60 days)
+
+See the complete checklist →
+
+Missing your 341 meeting can result in case dismissal. Attendance is mandatory under the Bankruptcy Code. If you cannot attend, contact your attorney immediately -- the trustee may reschedule, but repeated no-shows will almost certainly result in your case being dismissed.
+
+Learn more about what happens if you miss it →
+
+The timeline
+
+You file your bankruptcy petition -- either Chapter 7 or Chapter 13
+
+20-50 days later: the court schedules your 341 meeting and sends you a notice
+
+At the meeting: the trustee verifies your identity, puts you under oath, and asks questions (5-15 minutes)
+
+After the meeting: if the trustee is satisfied, the meeting is concluded. If not, it is continued to a later date.
+
+60 days after the meeting (Chapter 7): if no objections are filed, you receive your discharge
+
+The 341 meeting is not a trial. Nobody is trying to catch you in a lie. The trustee is reviewing your paperwork. If you filled out your petition honestly and completely, the meeting is routine. Thousands of them happen every single business day across the country.
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+Pro Se Bankruptcy Guide
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+🆕 New Resources
+
+📍 Bankruptcy guides for all 50 states
+
+🌎 Guias en Espanol
+
+📖 61-term bankruptcy glossary
+
+🧮 Full Part 1 & Part 2 means test calculator
+
+📰 Latest bankruptcy data analysis
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+What Is Chapter 7? -- Plain-English guide to Chapter 7 liquidation bankruptcy
+
+Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Related Guides
+
+What Happens at a 341 Meeting
+
+Free bankruptcy information guide
+
+341meeting.com →
+
+Understanding the Bankruptcy Trustee
+
+Free bankruptcy information guide
+
+bankruptcytrustee.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Compare chapters before you file
+
+chapter7vs13.org →
+
+Can I Keep My Car?
+
+What happens to your vehicle in bankruptcy
+
+keepmycarinbankruptcy.com →
+
+Can I Keep My House?
+
+Homestead exemptions and mortgage options
+
+keepmyhouseinbankruptcy.com →
+
+What Is a Bankruptcy Mill?
+
+How to avoid high-volume, low-quality firms
+
+bankruptcymill.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+Frequently Asked Questions
+
+How long does the 341 meeting last?
+
+Most 341 meetings last five to fifteen minutes. The trustee has a schedule of back-to-back hearings and moves quickly through routine cases. If your paperwork is complete and there are no issues with your petition, the meeting may take less than ten minutes.
+
+What should I bring to the 341 meeting?
+
+Bring a government-issued photo ID such as a driver's license or passport, proof of your Social Security number such as a Social Security card or W-2, and copies of your filed bankruptcy petition and schedules. If your meeting is by phone, have these documents readily available to reference.
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+What to Expect ·
+Questions ·
+Documents ·
+Phone vs In-Person ·
+Ch. 7 vs Ch. 13
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## Phone vs In-Person 341 Meetings -- Post-COVID Guide
+Source: https://341meeting.org/phone-vs-in-person.html
+
+341meeting.org
+☰
+
+Home
+What to Expect
+Questions
+Documents
+Phone vs In-Person
+If You Miss It
+Ch. 7 vs Ch. 13
+
+Home / Phone vs In-Person
+
+Phone vs In-Person 341 Meetings
+
+Since COVID-19, most 341 meetings happen by phone or video. Here is how both formats work.
+
+The shift to remote meetings
+
+Before March 2020, virtually all 341 meetings were conducted in person at federal buildings or trustee offices. When COVID-19 shut down courthouses, the bankruptcy system rapidly shifted to telephonic and video meetings.
+
+What was supposed to be temporary became permanent in many districts. As of 2026, the majority of bankruptcy districts still conduct 341 meetings by telephone, some use video platforms like Zoom, and a smaller number have returned to in-person meetings or offer hybrid options.
+
+Your notice of meeting will tell you the format. If you are not sure, ask your attorney or call the trustee's office.
+
+Phone meetings
+
+How they work
+
+You receive a notice with a dial-in number and access code (or a Zoom link)
+
+You submit your ID and SSN proof to the trustee in advance (usually by email or secure portal, 2-5 days before the meeting)
+
+At your scheduled time, you call in. You may be placed in a virtual waiting room
+
+The trustee calls your case, swears you in over the phone, and asks questions
+
+The meeting is recorded, just like an in-person meeting
+
+Advantages of phone meetings
+
+No travel. You do not need to find the courthouse, park, or go through security
+
+Less stressful. You are in your own space, which reduces anxiety
+
+Easier for people with disabilities, transportation challenges, or rural locations
+
+Faster. Trustees can move through calendars more efficiently
+
+Disadvantages
+
+ID submission in advance. You must plan ahead to email or upload your documents
+
+Tech issues. Bad cell service or dropped calls can disrupt the meeting
+
+Harder to read the room. You cannot see the trustee's reactions
+
+Tips for phone meetings:
+
+Find a quiet room. Turn off TV, close doors, silence other devices
+
+Use a landline or strong cell signal -- not speakerphone if you can avoid it
+
+Have your petition and documents in front of you
+
+Do not put the call on hold or mute yourself unless instructed
+
+Speak clearly and wait for the full question before answering
+
+Call from a phone number the trustee can reach you at if disconnected
+
+Video (Zoom) meetings
+
+Some districts use Zoom or similar video platforms instead of telephone-only. Video meetings work the same as phone meetings with these additions:
+
+You need a device with a camera (phone, tablet, laptop, or computer)
+
+You may be asked to show your photo ID on camera
+
+The trustee can see you, which makes the interaction more personal
+
+You should treat it like any professional video call
+
+Dress code for video meetings
+
+There is no formal dress code, but this is a federal proceeding under oath. Dress as you would for a job interview -- business casual at minimum. Do not appear in pajamas, without a shirt, or with distracting backgrounds. A plain wall or tidy room behind you is fine.
+
+Test your technology beforehand. Join a test Zoom meeting the day before to make sure your camera, microphone, and internet connection work. The trustee will not be sympathetic if you spend the first five minutes of your meeting troubleshooting your laptop.
+
+In-person meetings
+
+Some districts have returned to in-person 341 meetings. If your meeting is in person:
+
+Arrive 15-30 minutes early. You may need to go through security screening at a federal building
+
+Bring your photo ID and SSN proof with you (originals, not just copies)
+
+Dress appropriately. Business casual is the standard
+
+Expect to wait. The trustee runs a calendar with many cases. You may sit for an hour before your name is called
+
+You will be in a room with other debtors and their attorneys, not a courtroom
+
+When called, you sit at a table facing the trustee. Your attorney (if you have one) sits with you
+
+What happens if you have tech issues
+
+Technology problems during phone or video meetings are common. Here is what to do:
+
+Dropped call: Dial back in immediately using the same number and access code. The trustee will usually wait a few minutes
+
+Cannot connect at all: Call your attorney immediately. The trustee may continue your meeting to another date
+
+Audio quality issues: If the trustee cannot hear you clearly, they may ask you to call from a different phone or continue the meeting
+
+Zoom crashes: Close and reopen the application, then rejoin the meeting link
+
+Tech problems are not the same as failing to appear. If you make a genuine effort to connect and have technical difficulties, the trustee will typically reschedule rather than report a failure to appear. Document the problem (screenshot, call log) in case there is any question later.
+
+Comparison at a glance
+
+Feature
+Phone/Video
+In-Person
+
+ID submission
+In advance (email/portal)
+At the meeting (originals)
+
+Wait time
+Usually minimal
+Can be 30-60+ minutes
+
+Travel required
+None
+Federal building
+
+Dress code
+Business casual (video) / N/A (phone)
+Business casual
+
+Recording
+Yes
+Yes
+
+Duration
+5-15 minutes
+5-15 minutes
+
+Creditor attendance
+Rare (even rarer remotely)
+Rare
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Related Guides
+
+What Happens at a 341 Meeting
+
+Free bankruptcy information guide
+
+341meeting.com →
+
+Understanding the Bankruptcy Trustee
+
+Free bankruptcy information guide
+
+bankruptcytrustee.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+What to Expect ·
+Questions ·
+Documents ·
+Phone vs In-Person ·
+Ch. 7 vs Ch. 13
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## Questions Asked at the 341 Meeting of Creditors
+Source: https://341meeting.org/questions-they-ask.html
+
+Skip to main content
+
+341meeting.org
+
+Home
+What to Expect
+Questions Asked
+Documents
+Zoom & Phone
+What If I Miss It?
+
+Questions Asked at the 341 Meeting
+
+What the trustee will actually ask you -- and why
+
+Bankruptcy trustees follow a fairly standard set of questions at the 341 meeting. While the exact wording varies by trustee and district, the topics are consistent. Knowing what to expect removes the fear of the unknown.
+
+Below are the actual questions trustees commonly ask, organized by category. Your attorney should review these with you before the meeting.
+
+Opening and Identity Questions
+
+Every meeting starts the same way. The trustee needs to verify who you are and that you understand the process.
+
+"Please state your full name and current address for the record."
+
+"I need to see your government-issued photo ID and proof of Social Security number."
+
+"Do you understand that you are testifying under oath and that the penalty for false testimony is perjury?"
+
+"Did you read your bankruptcy petition and schedules before you signed them?"
+
+"Is all the information in your petition true and correct to the best of your knowledge?"
+
+Income and Employment
+
+The trustee needs to understand your financial situation. These questions verify what is listed in your schedules.
+
+"Are you currently employed? Where do you work and what is your position?"
+
+"What is your current monthly income?"
+
+"Does anyone else contribute to household expenses?"
+
+"Do you have any other sources of income -- rental income, side work, government benefits, child support?"
+
+"Have your income or expenses changed since you filed your petition?"
+
+Assets and Property
+
+The trustee is looking for assets that may not be listed or may be undervalued. In Chapter 7, this determines whether there is anything to distribute to creditors.
+
+"Do you own any real estate, either alone or with someone else?"
+
+"Do you own any vehicles? What are the year, make, and model?"
+
+"Do you have any bank accounts? What are the current balances?"
+
+"Do you own any stocks, bonds, retirement accounts, or investment accounts?"
+
+"Do you have any valuable jewelry, art, collections, or other personal property worth more than a few hundred dollars?"
+
+"Are you expecting any tax refunds?"
+
+"Is anyone holding money or property for you?"
+
+"Do you have any pending lawsuits or insurance claims?"
+
+Transfers and Payments
+
+These questions detect potential preference payments (paying one creditor ahead of others) or fraudulent transfers (giving away property to avoid creditors).
+
+"Have you transferred any property to anyone in the last two years?"
+
+"Have you paid more than $600 to any single creditor in the 90 days before filing?"
+
+"Have you given any money or property to family members in the past year?"
+
+"Have you sold any property below its fair market value recently?"
+
+Debts and Obligations
+
+The trustee verifies your debt picture matches what is in your schedules.
+
+"Are all of your debts listed in your schedules?"
+
+"Do you owe any taxes?"
+
+"Do you owe any domestic support obligations -- child support or alimony?"
+
+"Are there any debts you want to continue paying, such as a mortgage or car loan?"
+
+Chapter 13-Specific Questions
+
+If you filed Chapter 13, the trustee will also ask about your repayment plan and budget.
+
+"Have you reviewed your proposed Chapter 13 plan?"
+
+"Can you afford the proposed monthly plan payment?"
+
+"Are your listed monthly expenses accurate and current?"
+
+"Have you filed all required tax returns?"
+
+Closing Questions
+
+"Is there anything you would like to add or correct?"
+
+"Do any creditors present have questions for the debtor?"
+
+Tips for Answering
+
+Keep answers short. "Yes," "No," and brief explanations are best. Do not volunteer extra information.
+
+Be honest. You are under oath. If you do not know the answer, say "I don't know" -- do not guess.
+
+Let your attorney help. If you are confused by a question, look at your attorney. They can ask for clarification or rephrase.
+
+Do not argue. The trustee is not your adversary. Even if a question feels pointed, answer calmly.
+
+Correct mistakes. If you realize something in your petition is wrong, say so. Honest corrections are far better than getting caught in an inaccuracy later.
+
+Related Guides
+
+Step-by-step: What to expect at the meeting
+
+Documents you need to bring
+
+What happens if you miss your meeting
+
+Look up your attorney's track record
+
+Not legal advice. This site provides general information about the Section 341 meeting of creditors in bankruptcy. It is not a substitute for advice from a licensed attorney. Every case is different. If you have questions about your specific situation, consult with a qualified bankruptcy attorney in your jurisdiction.
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Related Guides
+
+What Happens at a 341 Meeting
+
+Free bankruptcy information guide
+
+341meeting.com →
+
+Understanding the Bankruptcy Trustee
+
+Free bankruptcy information guide
+
+bankruptcytrustee.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+automaticstay.org
+727a8.com
+524injunction.com
+filebankruptcyagain.com
+bankruptcycost.com
+bankruptcydismissed.com
+
+© 2026 341meeting.org. Open data, open tools, open access to justice.
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+---
+
+## What Happens If You Miss Your 341 Meeting?
+Source: https://341meeting.org/what-happens-if-you-miss.html
+
+341meeting.org
+☰
+
+Home
+What to Expect
+Questions
+Documents
+Phone vs In-Person
+If You Miss It
+Ch. 7 vs Ch. 13
+
+Home / What Happens If You Miss It
+
+What Happens If You Miss Your 341 Meeting?
+
+Short answer: your case could be dismissed. But there are options if you act fast.
+
+Missing your 341 meeting is one of the most common reasons for early case dismissal. The Bankruptcy Code requires you to appear. If you know you cannot attend, contact your attorney or the trustee's office as far in advance as possible.
+
+What happens step by step
+
+1. The trustee reports your absence
+
+When a debtor fails to appear at the 341 meeting, the trustee notes the non-appearance in the case record. The trustee may file a report with the court or simply request that the meeting be continued to give you another chance.
+
+2. The court issues a notice
+
+In many districts, the court will issue a "notice of intent to dismiss" or an order requiring you to appear at a rescheduled meeting. This is your warning. The notice typically gives you a specific date by which you must attend.
+
+3. One more chance (usually)
+
+Most trustees and courts will give you one continuance -- one rescheduled meeting date. This is not guaranteed, but it is standard practice. The rescheduled meeting is typically 2-4 weeks later.
+
+4. Dismissal if you miss again
+
+If you fail to appear at the rescheduled meeting, the court will almost certainly dismiss your case. In Chapter 7, the court may alternatively deny your discharge -- which is actually worse than dismissal because it means the debts remain but you used your filing and cannot easily file again.
+
+Consequences of dismissal
+
+When your case is dismissed:
+
+The automatic stay lifts immediately. Creditors can resume collections, lawsuits, garnishments, and foreclosure.
+
+Your debts remain. Nothing is discharged. You are back to where you started before filing.
+
+Filing again may be harder. If you refile within 180 days of a dismissal for failure to appear, the automatic stay in your new case may only last 30 days (under 11 U.S.C. § 362(c)(3)), or you may not get a stay at all if it is your third filing (11 U.S.C. § 362(c)(4)).
+
+You lose filing fees. The filing fee for your dismissed case is not refunded.
+
+Attorney fees may not be refunded. Your attorney may have a non-refundable retainer or may have already earned most of the fee.
+
+11 U.S.C. § 343: "The debtor shall appear and submit to examination under oath at the meeting of creditors." The word "shall" means mandatory. There is no exception for inconvenience or forgetfulness.
+
+Valid reasons for missing -- and how to handle them
+
+Medical emergency
+
+If you are hospitalized or have a documented medical emergency, contact your attorney immediately. The trustee will typically continue the meeting without issue. Provide medical documentation if requested.
+
+Work conflict
+
+Tell your attorney as soon as you know about the conflict. The trustee may be willing to reschedule, especially if contacted well in advance. Some trustees have evening or early morning meeting slots.
+
+Transportation or childcare issues
+
+These are harder to use as excuses, especially now that many meetings are by phone. If your meeting is in person and you genuinely cannot get there, your attorney should request a telephonic appearance.
+
+You forgot
+
+This is the worst reason but the most honest. Call your attorney immediately. If the meeting already happened and you missed it, the trustee will reschedule -- but you have used your one chance.
+
+Your attorney told you the wrong date
+
+This is your attorney's error, and the trustee will usually continue the meeting. Document the miscommunication. If your case is dismissed because of your attorney's mistake, you may have a malpractice claim.
+
+The single best thing you can do: communicate early. The moment you know you might not be able to attend, tell your attorney. Trustees are reasonable people. A proactive request to reschedule is always better received than a no-show followed by excuses.
+
+Can you get your case reinstated after dismissal?
+
+Sometimes. You can file a motion to vacate the dismissal and reinstate your case if you can show "good cause." Courts consider:
+
+Whether the failure to appear was due to circumstances beyond your control
+
+Whether you acted promptly after learning of the dismissal
+
+Whether reinstating the case would prejudice creditors
+
+Whether you have a pattern of filing and failing to prosecute cases
+
+A motion to vacate dismissal is not guaranteed to succeed and usually requires a court hearing. It is far easier to attend the meeting in the first place.
+
+What about Chapter 13 specifically?
+
+In Chapter 13 cases, missing the 341 meeting has additional consequences:
+
+Your plan cannot be confirmed until the 341 meeting is completed
+
+You are still required to make plan payments even while the meeting is pending
+
+The standing trustee may move to dismiss for failure to appear, failure to commence plan payments, or both
+
+If your case is dismissed, any payments already made through the trustee are returned to you (minus trustee fees), and your creditors can resume collection
+
+If you are thinking about skipping on purpose
+
+Some people file bankruptcy to get the temporary benefit of the automatic stay (stopping a foreclosure, halting a garnishment) and then intentionally skip the 341 meeting, knowing the case will be dismissed. Courts are aware of this tactic. If the court finds this is what you did:
+
+You may be barred from filing again for 180 days
+
+If you do refile, the automatic stay may be limited to 30 days or denied entirely
+
+The court may impose sanctions
+
+Repeated serial filings can result in an order prohibiting future filings without court permission
+
+Bottom line: attend your 341 meeting. If you filed bankruptcy, you presumably need the relief it provides. The meeting is 5-15 minutes. Do not lose your entire case over a meeting shorter than a lunch break.
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Related Guides
+
+What Happens at a 341 Meeting
+
+Free bankruptcy information guide
+
+341meeting.com →
+
+Understanding the Bankruptcy Trustee
+
+Free bankruptcy information guide
+
+bankruptcytrustee.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+What to Expect ·
+Questions ·
+Documents ·
+Phone vs In-Person ·
+Ch. 7 vs Ch. 13
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+---
+
+## What If I Miss My 341 Meeting?
+Source: https://341meeting.org/what-if-i-miss.html
+
+This page has moved. Click here if you are not redirected.
+
+Part of the Open Bankruptcy Project Network
+
+Discharge Screener
+Research
+Automatic Stay
+Chapter 7 Guide
+Ch. 7 vs 13
+Cost Guide
+Means Test
+Pro Se Guide
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+No legal advice is provided. This is educational information only.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+---
+
+## What to Expect at Your 341 Meeting
+Source: https://341meeting.org/what-to-expect.html
+
+Skip to main content
+
+341meeting.org
+
+Home
+What to Expect
+Questions Asked
+Documents
+Zoom & Phone
+What If I Miss It?
+
+What to Expect at Your 341 Meeting
+
+A step-by-step walkthrough -- before, during, and after
+
+The 341 meeting of creditors is the one hearing that every bankruptcy filer must attend. If you know what to expect going in, it will feel much less stressful. Here is exactly what happens, broken into three phases.
+
+Before the Meeting
+
+1. You Get a Notice
+
+After your bankruptcy petition is filed, the court mails (or emails) a notice with the date, time, and location of your 341 meeting. This typically happens within a few days of filing. The meeting itself is usually set 20 to 40 days after your case is filed.
+
+2. Gather Your Documents
+
+You need to bring specific documents. At minimum: a government-issued photo ID and proof of your Social Security number. Most trustees also want to see your most recent tax return, 60 days of pay stubs, and recent bank statements. See our full document checklist.
+
+3. Review Your Petition
+
+Read through your bankruptcy schedules before the meeting. You will be asked under oath whether they are accurate. If you find errors, tell your attorney immediately -- amendments can be filed before the meeting.
+
+4. Meet with Your Attorney
+
+A good attorney will schedule a pre-meeting review, either in person or by phone. They will walk you through the questions the trustee is likely to ask and explain anything that might come up. If your attorney does not do this, ask for it.
+
+5. Know the Format
+
+Check your notice to see if the meeting is in person, by phone, or by video. Many courts now use Zoom or similar platforms. If it is virtual, test your connection beforehand. See our guide to virtual 341 meetings.
+
+During the Meeting
+
+1
+
+Check In
+
+If the meeting is in person, you will check in at the meeting location -- often a federal building, trustee's office, or other designated space (not a courtroom). If virtual, you will join the call and wait in a virtual lobby. The trustee handles several cases in each time block, so you may wait 10 to 30 minutes before your case is called.
+
+2
+
+Identity Verification
+
+When your case is called, the trustee checks your photo ID and Social Security proof. For virtual meetings, you may be asked to hold your documents up to the camera or submit copies in advance. This step exists to prevent identity fraud in bankruptcy filings.
+
+3
+
+Sworn Oath
+
+The trustee places you under oath. From this point forward, everything you say is under penalty of perjury. This is the same oath used in court proceedings. Answer honestly -- lying under oath in bankruptcy is a federal crime under 18 U.S.C. Section 152.
+
+4
+
+Standard Questions
+
+The trustee asks a series of routine questions. These cover your income, assets, debts, and recent financial transactions. The questions are designed to verify -- not challenge -- what is in your petition. Most of this takes 5 to 10 minutes. See our complete list of common trustee questions.
+
+5
+
+Follow-Up Questions (If Any)
+
+If the trustee spots something unusual -- a recent property transfer, a large payment to a family member, an asset that seems undervalued -- they may ask follow-up questions. This does not mean something is wrong. It means the trustee is doing their job. Answer calmly and honestly.
+
+6
+
+Creditor Questions (Rare)
+
+Creditors have the legal right to attend and ask questions. In most consumer Chapter 7 and Chapter 13 cases, no creditors appear. When they do, it is usually a secured creditor (like a mortgage company) with a specific question about collateral. Your attorney will be there to object to improper questions.
+
+7
+
+Conclusion or Continuance
+
+If the trustee is satisfied, the meeting is concluded. You will hear the trustee say something like "the meeting of creditors is concluded" or "I have no further questions at this time." If additional documents are needed, the meeting is continued -- rescheduled to a future date. A continuance is not a punishment; it just means the trustee needs more information.
+
+After the Meeting
+
+If the Meeting Was Concluded
+
+Once concluded, your case moves to the next phase. In Chapter 7, creditors have 60 days to file objections to your discharge. If no objections are filed, the court enters your discharge -- typically about 90 days after the meeting date. In Chapter 13, your plan confirmation hearing is usually next, where the court decides whether to approve your repayment plan.
+
+If the Meeting Was Continued
+
+Provide whatever the trustee requested as quickly as possible. Your attorney should handle the follow-up. The continued meeting is usually shorter because the trustee only needs to address the open items.
+
+If You Need to Amend Your Schedules
+
+If the meeting revealed errors in your petition -- a forgotten asset, an incorrect address, an income figure that needs updating -- your attorney should file an amendment promptly. Courts are generally understanding about honest mistakes caught at the 341 meeting.
+
+Key Takeaway
+
+The 341 meeting is the shortest and simplest part of most bankruptcy cases. If your paperwork is accurate and you answer honestly, it will be over in minutes. The worst thing you can do is skip it -- see what happens if you miss your 341 meeting.
+
+Related Guides
+
+Questions trustees commonly ask at the 341 meeting
+
+Complete document checklist
+
+Virtual 341 meetings: Zoom, phone, and post-COVID changes
+
+Free bankruptcy discharge screener
+
+National bankruptcy data dashboard
+
+Not legal advice. This site provides general information about the Section 341 meeting of creditors in bankruptcy. It is not a substitute for advice from a licensed attorney. Every case is different. If you have questions about your specific situation, consult with a qualified bankruptcy attorney in your jurisdiction.
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Related Guides
+
+What Happens at a 341 Meeting
+
+Free bankruptcy information guide
+
+341meeting.com →
+
+Understanding the Bankruptcy Trustee
+
+Free bankruptcy information guide
+
+bankruptcytrustee.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+automaticstay.org
+727a8.com
+524injunction.com
+filebankruptcyagain.com
+bankruptcycost.com
+bankruptcydismissed.com
+
+© 2026 341meeting.org. Open data, open tools, open access to justice.
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## 341 Meetings by Zoom and Phone: Post-COVID Guide
+Source: https://341meeting.org/zoom-vs-phone.html
+
+Skip to main content
+
+341meeting.org
+
+Home
+What to Expect
+Questions Asked
+Documents
+Zoom & Phone
+What If I Miss It?
+
+341 Meetings by Zoom and Phone
+
+How virtual meetings work in the post-COVID bankruptcy world
+
+Before 2020, nearly all 341 meetings of creditors were held in person. The COVID-19 pandemic changed that virtually overnight. Courts across the country shifted to phone and video hearings -- and many have kept the virtual option even as in-person proceedings resumed.
+
+If your 341 meeting is scheduled as a virtual hearing, here is what you need to know.
+
+The Shift to Virtual Meetings
+
+In March 2020, the U.S. Trustee Program authorized trustees nationwide to conduct 341 meetings by telephone or video conference. This was initially an emergency measure, but it proved so efficient that many districts adopted it permanently. By 2024, a significant majority of consumer bankruptcy 341 meetings in the United States were conducted remotely.
+
+The legal authority for this comes from the court's general administrative power and specific orders issued by each district. The format -- phone, video, or in-person -- is determined by the trustee and local court rules, not by the debtor.
+
+Phone vs. Zoom: What Is the Difference?
+
+Phone-Only Meetings
+
+You dial a conference number and enter a meeting code
+
+No camera required -- audio only
+
+ID and documents are usually submitted electronically before the meeting
+
+The trustee verifies your identity from the documents you submitted
+
+Common in rural districts or with trustees who handle high volumes
+
+Video (Zoom, WebEx, Teams) Meetings
+
+You join a video call using a link provided in your notice
+
+Camera and microphone required -- the trustee needs to see you
+
+You may be asked to hold your ID up to the camera
+
+Documents may be submitted in advance or shared on screen
+
+More common in urban districts and for more complex cases
+
+How to Prepare for a Virtual Meeting
+
+Before the Day
+
+Check your notice carefully. It will specify the format (phone or video), the call-in number or meeting link, and any meeting ID or passcode.
+
+Submit documents early. Many trustees require you to upload or email your ID, Social Security proof, and other required documents several days before the meeting.
+
+Test your technology. If it is a video meeting, test Zoom (or whatever platform) on the device you plan to use. Make sure your camera and microphone work. Download the app in advance.
+
+Find a quiet, private space. You will be testifying under oath about your finances. Background noise, interruptions, or other people in the room can be distracting and may raise concerns.
+
+Day of the Meeting
+
+Join 5 to 10 minutes early. You may be placed in a waiting room until your case is called.
+
+Keep your ID nearby. Even if you submitted it electronically, the trustee may ask you to show it on camera.
+
+Mute yourself when not speaking. The trustee will unmute you when it is your turn.
+
+Dress appropriately. For video meetings, treat it like you would an in-person hearing. You do not need a suit, but avoid being in pajamas.
+
+Do not record the meeting. Recording is prohibited in most districts without court permission.
+
+Common Problems and How to Avoid Them
+
+Technical difficulties
+
+If your connection drops during the meeting, rejoin as quickly as possible. The trustee will usually wait a few minutes. If you cannot reconnect, your attorney should contact the trustee immediately to reschedule. Technical problems are generally treated with patience -- but have a backup plan (like dialing in by phone if your video connection fails).
+
+Poor audio quality
+
+Use headphones or earbuds with a microphone. Speakerphone on a laptop in a large room creates echo and makes it hard for the trustee to hear you. A wired connection (ethernet) is more reliable than Wi-Fi if available.
+
+Forgot to submit documents
+
+If the trustee required documents before the meeting and you did not submit them, the meeting will likely be continued. Contact your attorney immediately if you realize you missed the deadline.
+
+Can You Request a Virtual Meeting?
+
+In most districts, the format is set by the trustee and you cannot choose. However, if you have a legitimate reason why attending in person is difficult -- disability, long distance, medical condition -- your attorney can request a phone or video appearance. Many trustees are accommodating, especially since the technology is now well established.
+
+Conversely, if your meeting is virtual and you would prefer to attend in person, that request is less commonly granted since the trustee has set up the meeting for remote participation.
+
+Related Guides
+
+Full walkthrough: What to expect at your 341 meeting
+
+Document checklist -- what to submit in advance
+
+Questions the trustee will ask
+
+What happens if you miss your meeting
+
+Free bankruptcy discharge screener
+
+Not legal advice. This site provides general information about the Section 341 meeting of creditors in bankruptcy. It is not a substitute for advice from a licensed attorney. Every case is different. If you have questions about your specific situation, consult with a qualified bankruptcy attorney in your jurisdiction.
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Payday Loan Debt in Bankruptcy
+
+What Happens in Bankruptcy?
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy trustees and the 341 meeting:
+
+11 U.S.C. Section 341
+Cornell LII -- meeting of creditors
+
+11 U.S.C. Section 329
+Cornell LII -- attorney fee review
+
+U.S. Trustee Program
+DOJ bankruptcy oversight
+
+Bankruptcy Basics
+USCourts.gov
+
+CFPB: What Is Bankruptcy?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Trustee Research
+Google Scholar
+
+Related Guides
+
+What Happens at a 341 Meeting
+
+Free bankruptcy information guide
+
+341meeting.com →
+
+Understanding the Bankruptcy Trustee
+
+Free bankruptcy information guide
+
+bankruptcytrustee.org →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+Bankruptcy Means Test Guide
+
+Find out if you qualify for Chapter 7
+
+meanstest.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+automaticstay.org
+727a8.com
+524injunction.com
+filebankruptcyagain.com
+bankruptcycost.com
+bankruptcydismissed.com
+
+© 2026 341meeting.org. Open data, open tools, open access to justice.
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## 341 Meeting Preparation Checklist -- What to Bring and Expect [2026]
+Source: https://341meeting.org/preparation-checklist.html
+
+Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+341meeting.org
+☰
+
+Home
+What to Expect
+Questions
+Documents
+Prep Checklist
+Phone vs In-Person
+If You Miss It
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+341 Meeting Preparation Checklist
+
+Everything you need to do before, during, and after your meeting of creditors. Print this checklist and check off each item as you go.
+
+Print This Checklist
+
+Documents to Bring
+
+The trustee will verify your identity and review key financial documents. Bring originals when possible.
+
+Government-issued photo ID (driver's license, state ID, or passport)Must not be expired. The trustee will compare your photo to your appearance.
+
+Proof of Social Security numberSSN card, W-2, SSA-1099, or pay stub showing full SSN. Some courts accept last-4 proof.
+
+Two most recent federal tax returns (all pages)Must be provided to the trustee at least 7 days before the meeting. Failure to provide can result in dismissal under 11 U.S.C. section 521(e)(2).
+
+Six months of pay stubs or proof of income
+
+Six months of bank statements (all accounts)
+
+Copy of your bankruptcy petition, schedules, and SOFAReview every page. The trustee will ask if you reviewed them and if they are accurate.
+
+Vehicle titles or registration
+
+Most recent mortgage statement
+
+Any documents the trustee specifically requestedCheck your mail and your attorney's communications. The trustee may have sent a specific document request.
+
+Pen (to sign documents or note amendments)
+
+Questions the Trustee Will Ask
+
+Prepare short, direct answers for these standard questions. You are under oath -- answer truthfully.
+
+"Did you review your petition and schedules before signing?"Answer: "Yes, I reviewed them."
+
+"Is all the information in your petition true and correct?"If you found errors, tell your attorney before the meeting so amendments can be filed.
+
+"Have you listed all of your assets?"This includes everything: bank accounts, vehicles, real estate, personal property, expected tax refunds, and pending lawsuits.
+
+"Have you listed all of your debts?"
+
+"Have you transferred, sold, or given away any property in the last 2 years?"Includes gifts to family, selling a car below market value, or transferring property.
+
+"Are you expecting any inheritance within the next 180 days?"
+
+"Do you owe any domestic support obligations (child support/alimony)?"
+
+"Have you filed all required tax returns for the past 4 years?"
+
+"Is there anything you want to change or correct in your petition?"
+
+"Do you have any questions about the bankruptcy process?"
+
+Tip: Keep answers short. "Yes." "No." "I don't recall the exact amount, but it is listed on Schedule B." Do not volunteer extra information.
+
+What to Wear
+
+Business casual clothing (khakis/slacks, collared shirt, blouse)The 341 meeting is held in a conference room, not a courtroom. Suits are not required.
+
+Clean, neat appearance
+
+Comfortable shoes (you may wait 30-60 minutes)
+
+Avoid
+
+Flashy or expensive jewelry
+
+Designer clothing or accessories with visible logos
+
+Anything suggesting financial comfort (luxury watches, designer bags)
+
+Overly casual clothing (shorts, flip-flops, tank tops)
+
+What NOT to Say
+
+These are common mistakes that can complicate your case or raise red flags with the trustee.
+
+Do NOT volunteer information beyond what is askedAnswer the question. Stop. Do not explain, justify, or add context unless the trustee asks for it.
+
+Do NOT say "I forgot to list..." or "I didn't include..."If something is missing, tell your attorney before the meeting and file an amendment. Do not announce omissions to the trustee unprompted.
+
+Do NOT lie or exaggerate -- you are under oathPerjury in bankruptcy is a federal crime under 18 U.S.C. section 152. It can result in denial of discharge and criminal prosecution.
+
+Do NOT discuss future income expectations unless asked"I'm expecting a raise" or "I'm about to start a new job" can affect your means test or plan payments.
+
+Do NOT argue with the trusteeThe trustee is not your adversary. They are conducting a standard review. If you disagree, note it calmly and discuss with your attorney afterward.
+
+Do NOT discuss your case with other debtors in the waiting areaOther people's meetings are scheduled for the same time slot. Do not share details of your case.
+
+Do NOT say "my lawyer told me to say..."Answer from your own knowledge. Attorney-client communications are privileged.
+
+Day-of Timeline
+
+Follow this timeline for a smooth 341 meeting experience.
+
+T-30 min
+Leave for the meeting location. Allow extra time for parking and finding the room.
+
+T-15 min
+Arrive and check in. Find the correct room. Sign in if there is a sign-in sheet. Sit down and observe other meetings to see the process.
+
+T-10 min
+Review your petition and schedules one final time. Have your ID and SSN proof ready.
+
+Meeting time
+When your name is called, approach the table. Present your ID and SSN proof. The trustee will swear you in under oath.
+
+5-15 min
+The trustee asks questions. Answer truthfully and concisely. Creditors may ask questions (rare).
+
+After
+Meeting concludes. The trustee may request additional documents (you typically have 14 days to provide them). Note any follow-up deadlines.
+
+Phone/Video meetings: If your 341 meeting is by phone or video (common since 2020), test your connection beforehand. Use a quiet room. Have all documents accessible on your screen or desk. Dial in 5 minutes early.
+
+After the Meeting
+
+Provide any additional documents the trustee requestedNote the deadline. Missing it can delay your case or result in a motion to dismiss.
+
+Complete the financial management course (debtor education)This is the second required course. Must be completed before discharge. Find providers at justice.gov/ust.
+
+File amendments if any errors were identified
+
+Continue making Chapter 13 plan payments (if applicable)
+
+Watch for your discharge order (Chapter 7: ~60 days after meeting)
+
+Print This Checklist
+
+Related Resources
+
+What to Expect at the 341 Meeting
+
+Common Trustee Questions
+
+Documents to Bring
+
+Complete Filing Document Checklist
+
+Pro Se Filing Checklist
+
+Free Bankruptcy Discharge Screener
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+howtofilebankruptcy.org
+prosebankruptcy.org
+341meeting.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
