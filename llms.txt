@@ -1,20 +1,20 @@
-# 341 Meeting of Creditors -- What to Expect [2026]
+# 341 Meeting of Creditors - What to Expect [2026]
 > What happens at the 341 meeting of creditors? Questions the trustee asks, what to bring, and how to prepare. 2026 guide.
 
 ## About
 341meeting.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
+- 341 Meeting of Creditors - What to Expect: https://341meeting.org/
 - 341 Meeting: Chapter 7 vs Chapter 13 Differences: https://341meeting.org/chapter-7-vs-chapter-13.html
 - Documents to Bring to Your 341 Meeting: https://341meeting.org/documents-to-bring.html
-- 341 Meeting of Creditors -- What to Expect: https://341meeting.org/
-- Phone vs In-Person 341 Meetings -- Post-COVID Guide: https://341meeting.org/phone-vs-in-person.html
+- Phone vs In-Person 341 Meetings - Post-COVID Guide: https://341meeting.org/phone-vs-in-person.html
+- 341 Meeting Preparation Checklist - What to Bring and Expect: https://341meeting.org/preparation-checklist.html
 - Questions Asked at the 341 Meeting of Creditors: https://341meeting.org/questions-they-ask.html
 - What Happens If You Miss Your 341 Meeting?: https://341meeting.org/what-happens-if-you-miss.html
-- What If I Miss My 341 Meeting?: https://341meeting.org/what-if-i-miss.html
 - What to Expect at Your 341 Meeting: https://341meeting.org/what-to-expect.html
 - 341 Meetings by Zoom and Phone: Post-COVID Guide: https://341meeting.org/zoom-vs-phone.html
-- 341 Meeting Preparation Checklist -- What to Bring and Expect: https://341meeting.org/preparation-checklist.html
+- Privacy Policy: https://341meeting.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
