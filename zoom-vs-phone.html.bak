@@ -19,19 +19,19 @@
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What to Expect at Your 341 Meeting</title>
-<meta content="Learn about what to expect at your 341 meeting | 341meeting.org in our free 2026 guide. Clear explanations, real data, and practical steps." name="description"/>
-<link href="https://341meeting.org/what-to-expect.html" rel="canonical"/>
+<title>341 Meetings by Zoom and Phone: Post-COVID Guide</title>
+<meta content="Learn about 341 meetings by zoom and phone: post-covid guide | 341meeting.org in our free 2026 guide. Clear explanations, real data, and pra..." name="description"/>
+<link href="https://341meeting.org/zoom-vs-phone.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="What to Expect at Your 341 Meeting" property="og:title"/>
-<meta content="Learn about what to expect at your 341 meeting | 341meeting.org in our free 2026 guide. Clear explanations, real data, and practical steps." property="og:description"/>
+<meta content="341 Meetings by Zoom and Phone: Post-COVID Guide" property="og:title"/>
+<meta content="Learn about 341 meetings by zoom and phone: post-covid guide | 341meeting.org in our free 2026 guide. Clear explanations, real data, and pra..." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://341meeting.org/what-to-expect.html" property="og:url"/>
+<meta content="https://341meeting.org/zoom-vs-phone.html" property="og:url"/>
 <meta content="341meeting.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What to Expect at Your 341 Meeting" name="twitter:title"/>
-<meta content="Learn about what to expect at your 341 meeting | 341meeting.org in our free 2026 guide. Clear explanations, real data, and practical steps." name="twitter:description"/>
+<meta content="341 Meetings by Zoom and Phone: Post-COVID Guide" name="twitter:title"/>
+<meta content="Learn about 341 meetings by zoom and phone: post-covid guide | 341meeting.org in our free 2026 guide. Clear explanations, real data, and pra..." name="twitter:description"/>
 <meta content="https://341meeting.org/og-image.svg" property="og:image"/>
 <meta content="https://341meeting.org/og-image.svg" name="twitter:image"/>
 <style>
@@ -80,15 +80,6 @@
   .card h3 { margin-top: 0; color: var(--green); }
   .highlight { color: var(--green); font-weight: 600; }
   .warning { color: var(--red); font-weight: 600; }
-  .step-number {
-    display: inline-block; width: 2rem; height: 2rem; line-height: 2rem;
-    text-align: center; background: var(--accent); color: var(--bg);
-    border-radius: 50%; font-weight: 700; font-size: 0.9rem; margin-right: 0.5rem;
-    flex-shrink: 0;
-  }
-  .step { display: flex; align-items: flex-start; margin-bottom: 1.5rem; }
-  .step-content { flex: 1; }
-  .step-content h3 { margin-top: 0; }
   .internal-links {
     background: var(--surface); border: 1px solid var(--border);
     border-radius: 8px; padding: 1.25rem 1.5rem; margin: 2rem 0;
@@ -124,7 +115,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://341meeting.org/" },
-    { "@type": "ListItem", "position": 2, "name": "What to Expect", "item": "https://341meeting.org/what-to-expect.html" }
+    { "@type": "ListItem", "position": 2, "name": "Zoom & Phone", "item": "https://341meeting.org/zoom-vs-phone.html" }
   ]
 }
 </script>
@@ -132,9 +123,9 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "What to Expect at Your 341 Meeting",
-  "description": "Step-by-step walkthrough of what happens before, during, and after your Section 341 meeting of creditors.",
-  "url": "https://341meeting.org/what-to-expect.html",
+  "name": "341 Meetings by Zoom and Phone: Post-COVID Guide",
+  "description": "How virtual 341 meetings work by Zoom and phone, which courts allow it, and how to prepare.",
+  "url": "https://341meeting.org/zoom-vs-phone.html",
   "inLanguage": "en",
   "isPartOf": { "@type": "WebSite", "name": "341meeting.org", "url": "https://341meeting.org/" }
 }
@@ -148,8 +139,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "What to Expect at Your 341 Meeting",
-      "description": "Step-by-step walkthrough of what happens before, during, and after your Section 341 meeting of creditors in bankruptcy.",
+      "headline": "341 Meetings by Zoom and Phone",
+      "description": "How virtual 341 meetings work by Zoom and phone. Which courts allow it, how to prepare, and what has changed since COVID-19.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -161,37 +152,16 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://341meeting.org/what-to-expect.html"
+      "mainEntityOfPage": "https://341meeting.org/zoom-vs-phone.html"
     }
   ]
 }
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "If the Meeting Was Concluded?", "acceptedAnswer": {"@type": "Answer", "text": "Once concluded, your case moves to the next phase. In Chapter 7 , creditors have 60 days to file objections to your discharge. If no objections are filed, the court enters your discharge - typically about 90 days after the meeting date."}}, {"@type": "Question", "name": "If the Meeting Was Continued?", "acceptedAnswer": {"@type": "Answer", "text": "Provide whatever the trustee requested as quickly as possible. Your attorney should handle the follow-up. The continued meeting is usually shorter because the trustee only needs to address the open items."}}, {"@type": "Question", "name": "If You Need to Amend Your Schedules?", "acceptedAnswer": {"@type": "Answer", "text": "If the meeting revealed errors in your petition - a forgotten asset, an incorrect address, an income figure that needs updating - your attorney should file an amendment promptly. Courts are generally understanding about honest mistakes caught at the 341 meeting."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What happens at a 341 meeting of creditors?", "acceptedAnswer": {"@type": "Answer", "text": "The trustee verifies your identity, places you under oath, and asks questions about your income, assets, debts, and bankruptcy schedules. Creditors may attend and ask questions, though most do not. The meeting typically lasts 5-15 minutes."}}, {"@type": "Question", "name": "What documents do I need for my 341 meeting?", "acceptedAnswer": {"@type": "Answer", "text": "Bring a valid government-issued photo ID, proof of Social Security number, recent pay stubs (60 days), your most recent tax return, and bank statements. The trustee may request additional documents before the meeting."}}, {"@type": "Question", "name": "Can my 341 meeting be held by phone or video?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Since 2020, most 341 meetings are conducted by telephone or video conference. Your attorney will provide the call-in details. The same rules and oath requirements apply regardless of the format."}}, {"@type": "Question", "name": "What if I miss my 341 meeting?", "acceptedAnswer": {"@type": "Answer", "text": "Missing your 341 meeting can result in your case being dismissed. If you have a legitimate reason, contact your attorney immediately to request a continuance. The trustee may reschedule, but repeated failures to appear will likely lead to dismissal."}}, {"@type": "Question", "name": "What questions will the trustee ask at my 341 meeting?", "acceptedAnswer": {"@type": "Answer", "text": "Standard questions cover your identity, whether you reviewed your petition, whether everything is accurate, your income sources, any recent property transfers, and any pending lawsuits or inheritances. The trustee is looking for undisclosed assets or income."}}]}
 </script>
-<link href="https://341meeting.org/what-to-expect.html" hreflang="en" rel="alternate"/>
-<link href="https://341meeting.org/what-to-expect-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://341meeting.org/zoom-vs-phone.html" hreflang="en" rel="alternate"/>
+<link href="https://341meeting.org/zoom-vs-phone-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -200,99 +170,84 @@
 <a class="nav-brand" href="/">341meeting.org</a>
 <div class="nav-links">
 <a href="/">Home</a>
-<a class="active" href="/what-to-expect.html">What to Expect</a>
+<a href="/what-to-expect.html">What to Expect</a>
 <a href="/questions-they-ask.html">Questions Asked</a>
 <a href="/documents-to-bring.html">Documents</a>
-<a href="/zoom-vs-phone.html">Zoom &amp; Phone</a>
+<a class="active" href="/zoom-vs-phone.html">Zoom &amp; Phone</a>
 <a href="/what-if-i-miss.html">What If I Miss It?</a>
 </div>
 </div>
 </nav>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://341meeting.org/">Home</a><span class="separator">›</span><span>What to Expect</span></nav>
-<h1>What to Expect at Your 341 Meeting</h1>
-<p class="subtitle">A step-by-step walkthrough - before, during, and after</p>
-<p>The 341 meeting of creditors is the one hearing that every bankruptcy filer must attend. If you know what to expect going in, it will feel much less stressful. Here is exactly what happens, broken into three phases.</p>
-<h2>Before the Meeting</h2>
-<h3>1. You Get a Notice</h3>
-<p>After your bankruptcy petition is filed, the court mails (or emails) a notice with the date, time, and location of your 341 meeting. This typically happens within a few days of filing. The meeting itself is usually set 20 to 40 days after your case is filed.</p>
-<h3>2. Gather Your Documents</h3>
-<p>You need to bring specific documents. At minimum: a government-issued photo ID and proof of your Social Security number. Most trustees also want to see your most recent tax return, 60 days of pay stubs, and recent bank statements. See our full <a href="/documents-to-bring.html">document checklist</a>.</p>
-<h3>3. Review Your Petition</h3>
-<p>Read through your bankruptcy schedules before the meeting. You will be asked under oath whether they are accurate. If you find errors, tell your attorney immediately - amendments can be filed before the meeting.</p>
-<h3>4. Meet with Your Attorney</h3>
-<p>A good attorney will schedule a pre-meeting review, either in person or by phone. They will walk you through the questions the trustee is likely to ask and explain anything that might come up. If your attorney does not do this, ask for it.</p>
-<h3>5. Know the Format</h3>
-<p>Check your notice to see if the meeting is in person, by phone, or by video. Many courts now use Zoom or similar platforms. If it is virtual, test your connection beforehand. See our <a href="/zoom-vs-phone.html">guide to virtual 341 meetings</a>.</p>
-<h2>During the Meeting</h2>
-<div class="step">
-<span class="step-number">1</span>
-<div class="step-content">
-<h3>Check In</h3>
-<p>If the meeting is in person, you will check in at the meeting location - often a federal building, trustee's office, or other designated space (not a courtroom). If virtual, you will join the call and wait in a virtual lobby. The trustee handles several cases in each time block, so you may wait 10 to 30 minutes before your case is called.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">2</span>
-<div class="step-content">
-<h3>Identity Verification</h3>
-<p>When your case is called, the trustee checks your photo ID and Social Security proof. For virtual meetings, you may be asked to hold your documents up to the camera or submit copies in advance. This step exists to prevent identity fraud in bankruptcy filings.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">3</span>
-<div class="step-content">
-<h3>Sworn Oath</h3>
-<p>The trustee places you under oath. From this point forward, everything you say is under penalty of perjury. This is the same oath used in court proceedings. Answer honestly - lying under oath in bankruptcy is a federal crime under <strong>18 U.S.C. Section 152</strong>.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">4</span>
-<div class="step-content">
-<h3>Standard Questions</h3>
-<p>The trustee asks a series of routine questions. These cover your income, assets, debts, and recent financial transactions. The questions are designed to verify - not challenge - what is in your petition. Most of this takes 5 to 10 minutes. See our <a href="/questions-they-ask.html">complete list of common trustee questions</a>.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">5</span>
-<div class="step-content">
-<h3>Follow-Up Questions (If Any)</h3>
-<p>If the trustee spots something unusual - a recent property transfer, a large payment to a family member, an asset that seems undervalued - they may ask follow-up questions. This does not mean something is wrong. It means the trustee is doing their job. Answer calmly and honestly.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">6</span>
-<div class="step-content">
-<h3>Creditor Questions (Rare)</h3>
-<p>Creditors have the legal right to attend and ask questions. In most consumer <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases, no creditors appear. When they do, it is usually a secured creditor (like a mortgage company) with a specific question about collateral. Your attorney will be there to object to improper questions.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">7</span>
-<div class="step-content">
-<h3>Conclusion or Continuance</h3>
-<p>If the trustee is satisfied, the meeting is concluded. You will hear the trustee say something like "the meeting of creditors is concluded" or "I have no further questions at this time." If additional documents are needed, the meeting is <strong>continued</strong> - rescheduled to a future date. A continuance is not a punishment; it just means the trustee needs more information.</p>
-</div>
-</div>
-<h2>After the Meeting</h2>
-<h3>If the Meeting Was Concluded</h3>
-<p>Once concluded, your case moves to the next phase. In <strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></strong>, creditors have 60 days to file objections to your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. If no objections are filed, the court enters your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> - typically about 90 days after the meeting date. In <strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></strong>, your plan <a href="https://chapter13plan.org/" title="confirmation">confirmation hearing</a> is usually next, where the court decides whether to approve your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>.</p>
-<h3>If the Meeting Was Continued</h3>
-<p>Provide whatever the trustee requested as quickly as possible. Your attorney should handle the follow-up. The continued meeting is usually shorter because the trustee only needs to address the open items.</p>
-<h3>If You Need to Amend Your Schedules</h3>
-<p>If the meeting revealed errors in your petition - a forgotten asset, an incorrect address, an income figure that needs updating - your attorney should file an amendment promptly. Courts are generally understanding about honest mistakes caught at the 341 meeting.</p>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://341meeting.org/">Home</a><span class="separator">›</span><span>Zoom &amp; Phone</span></nav>
+<h1>341 Meetings by Zoom and Phone</h1>
+<p class="subtitle">How virtual meetings work in the post-COVID bankruptcy world</p>
+<p>Before 2020, nearly all 341 meetings of creditors were held in person. The COVID-19 pandemic changed that virtually overnight. Courts across the country shifted to phone and video hearings - and many have kept the virtual option even as in-person proceedings resumed.</p>
+<p>If your 341 meeting is scheduled as a virtual hearing, here is what you need to know.</p>
+<h2>The Shift to Virtual Meetings</h2>
+<p>In March 2020, the <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">U.S. Trustee Program</a> authorized trustees nationwide to conduct 341 meetings by telephone or video conference. This was initially an emergency measure, but it proved so efficient that many districts adopted it permanently. By 2024, a significant majority of consumer bankruptcy 341 meetings in the United States were conducted remotely.</p>
+<p>The legal authority for this comes from the court's general administrative power and specific orders issued by each district. The format - phone, video, or in-person - is determined by the trustee and local court rules, not by the debtor.</p>
+<h2>Phone vs. Zoom: What Is the Difference?</h2>
 <div class="card">
-<h3>Key Takeaway</h3>
-<p>The 341 meeting is the shortest and simplest part of most bankruptcy cases. If your paperwork is accurate and you answer honestly, it will be over in minutes. The worst thing you can do is skip it - see <a href="/what-if-i-miss.html">what happens if you miss your 341 meeting</a>.</p>
+<h3>Phone-Only Meetings</h3>
+<ul>
+<li>You dial a conference number and enter a meeting code</li>
+<li>No camera required - audio only</li>
+<li>ID and documents are usually submitted electronically before the meeting</li>
+<li>The trustee verifies your identity from the documents you submitted</li>
+<li>Common in rural districts or with trustees who handle high volumes</li>
+</ul>
 </div>
+<div class="card">
+<h3>Video (Zoom, WebEx, Teams) Meetings</h3>
+<ul>
+<li>You join a video call using a link provided in your notice</li>
+<li>Camera and microphone required - the trustee needs to see you</li>
+<li>You may be asked to hold your ID up to the camera</li>
+<li>Documents may be submitted in advance or shared on screen</li>
+<li>More common in urban districts and for more complex cases</li>
+</ul>
+</div>
+<h2>How to Prepare for a Virtual Meeting</h2>
+<h3>Before the Day</h3>
+<ul>
+<li><strong>Check your notice carefully.</strong> It will specify the format (phone or video), the call-in number or meeting link, and any meeting ID or passcode.</li>
+<li><strong>Submit documents early.</strong> Many trustees require you to upload or email your ID, Social Security proof, and other <a href="/documents-to-bring.html">required documents</a> several days before the meeting.</li>
+<li><strong>Test your technology.</strong> If it is a video meeting, test Zoom (or whatever platform) on the device you plan to use. Make sure your camera and microphone work. Download the app in advance.</li>
+<li><strong>Find a quiet, private space.</strong> You will be testifying under oath about your finances. Background noise, interruptions, or other people in the room can be distracting and may raise concerns.</li>
+</ul>
+<h3>Day of the Meeting</h3>
+<ul>
+<li><strong>Join 5 to 10 minutes early.</strong> You may be placed in a waiting room until your case is called.</li>
+<li><strong>Keep your ID nearby.</strong> Even if you submitted it electronically, the trustee may ask you to show it on camera.</li>
+<li><strong>Mute yourself when not speaking.</strong> The trustee will unmute you when it is your turn.</li>
+<li><strong>Dress appropriately.</strong> For video meetings, treat it like you would an in-person hearing. You do not need a suit, but avoid being in pajamas.</li>
+<li><strong>Do not record the meeting.</strong> Recording is prohibited in most districts without court permission.</li>
+</ul>
+<h2>Common Problems and How to Avoid Them</h2>
+<div class="card">
+<h3>Technical difficulties</h3>
+<p>If your connection drops during the meeting, rejoin as quickly as possible. The trustee will usually wait a few minutes. If you cannot reconnect, your attorney should contact the trustee immediately to reschedule. Technical problems are generally treated with patience - but have a backup plan (like dialing in by phone if your video connection fails).</p>
+</div>
+<div class="card">
+<h3>Poor audio quality</h3>
+<p>Use headphones or earbuds with a microphone. Speakerphone on a laptop in a large room creates echo and makes it hard for the trustee to hear you. A wired connection (ethernet) is more reliable than Wi-Fi if available.</p>
+</div>
+<div class="card">
+<h3>Forgot to submit documents</h3>
+<p>If the trustee required documents before the meeting and you did not submit them, the meeting will likely be continued. Contact your attorney immediately if you realize you missed the deadline.</p>
+</div>
+<h2>Can You Request a Virtual Meeting?</h2>
+<p>In most districts, the format is set by the trustee and you cannot choose. However, if you have a legitimate reason why attending in person is difficult - disability, long distance, medical condition - your attorney can request a phone or video appearance. Many trustees are accommodating, especially since the technology is now well established.</p>
+<p>Conversely, if your meeting is virtual and you would prefer to attend in person, that request is less commonly granted since the trustee has set up the meeting for remote participation.</p>
 <div class="internal-links">
 <h3>Related Guides</h3>
 <ul>
-<li><a href="/questions-they-ask.html">Questions trustees commonly ask at the 341 meeting</a></li>
-<li><a href="/documents-to-bring.html">Complete document checklist</a></li>
-<li><a href="/zoom-vs-phone.html">Virtual 341 meetings: Zoom, phone, and post-COVID changes</a></li>
+<li><a href="/what-to-expect.html">Full walkthrough: What to expect at your 341 meeting</a></li>
+<li><a href="/documents-to-bring.html">Document checklist - what to submit in advance</a></li>
+<li><a href="/questions-they-ask.html">Questions the trustee will ask</a></li>
+<li><a href="/what-if-i-miss.html">What happens if you miss your meeting</a></li>
 <li><a href="https://1328f.com/" rel="noopener">Free bankruptcy discharge screener</a></li>
-<li><a href="https://1328f.org/dashboard.html" rel="noopener">National bankruptcy data dashboard</a></li>
 </ul>
 </div>
 <div class="disclaimer">
@@ -307,9 +262,6 @@
 <li><a href="https://paydayloandebt.org" style="color:#58a6ff;text-decoration:none">Payday Loan Debt in Bankruptcy</a></li>
 <li><a href="https://whathappensinbankruptcy.com" style="color:#58a6ff;text-decoration:none">What Happens in Bankruptcy?</a></li>
 </ul>
-</div>
-<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
-<a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
 </div>
 </main>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">

@@ -19,19 +19,19 @@
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What to Expect at Your 341 Meeting</title>
-<meta content="Learn about what to expect at your 341 meeting | 341meeting.org in our free 2026 guide. Clear explanations, real data, and practical steps." name="description"/>
-<link href="https://341meeting.org/what-to-expect.html" rel="canonical"/>
+<title>Documents to Bring to Your 341 Meeting</title>
+<meta content="Complete checklist of documents required for your Section 341 meeting of creditors. ID, tax returns, pay stubs, bank statements, and more." name="description"/>
+<link href="https://341meeting.org/documents-to-bring.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="What to Expect at Your 341 Meeting" property="og:title"/>
-<meta content="Learn about what to expect at your 341 meeting | 341meeting.org in our free 2026 guide. Clear explanations, real data, and practical steps." property="og:description"/>
+<meta content="Documents to Bring to Your 341 Meeting" property="og:title"/>
+<meta content="Complete checklist of documents required for your Section 341 meeting of creditors. ID, tax returns, pay stubs, bank statements, and more." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://341meeting.org/what-to-expect.html" property="og:url"/>
+<meta content="https://341meeting.org/documents-to-bring.html" property="og:url"/>
 <meta content="341meeting.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What to Expect at Your 341 Meeting" name="twitter:title"/>
-<meta content="Learn about what to expect at your 341 meeting | 341meeting.org in our free 2026 guide. Clear explanations, real data, and practical steps." name="twitter:description"/>
+<meta content="Documents to Bring to Your 341 Meeting" name="twitter:title"/>
+<meta content="Complete checklist of documents required for your Section 341 meeting of creditors. ID, tax returns, pay stubs, bank statements, and more." name="twitter:description"/>
 <meta content="https://341meeting.org/og-image.svg" property="og:image"/>
 <meta content="https://341meeting.org/og-image.svg" name="twitter:image"/>
 <style>
@@ -78,17 +78,17 @@
     border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem;
   }
   .card h3 { margin-top: 0; color: var(--green); }
+  .checklist { list-style: none; margin-left: 0; }
+  .checklist li {
+    padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--border);
+    display: flex; align-items: flex-start; gap: 0.75rem;
+  }
+  .checklist li:last-child { border-bottom: none; }
+  .check-icon { color: var(--green); font-weight: 700; flex-shrink: 0; font-size: 1.1rem; }
+  .required { color: var(--red); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; }
+  .recommended { color: var(--accent); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; }
   .highlight { color: var(--green); font-weight: 600; }
   .warning { color: var(--red); font-weight: 600; }
-  .step-number {
-    display: inline-block; width: 2rem; height: 2rem; line-height: 2rem;
-    text-align: center; background: var(--accent); color: var(--bg);
-    border-radius: 50%; font-weight: 700; font-size: 0.9rem; margin-right: 0.5rem;
-    flex-shrink: 0;
-  }
-  .step { display: flex; align-items: flex-start; margin-bottom: 1.5rem; }
-  .step-content { flex: 1; }
-  .step-content h3 { margin-top: 0; }
   .internal-links {
     background: var(--surface); border: 1px solid var(--border);
     border-radius: 8px; padding: 1.25rem 1.5rem; margin: 2rem 0;
@@ -124,7 +124,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://341meeting.org/" },
-    { "@type": "ListItem", "position": 2, "name": "What to Expect", "item": "https://341meeting.org/what-to-expect.html" }
+    { "@type": "ListItem", "position": 2, "name": "Documents to Bring", "item": "https://341meeting.org/documents-to-bring.html" }
   ]
 }
 </script>
@@ -132,9 +132,9 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "What to Expect at Your 341 Meeting",
-  "description": "Step-by-step walkthrough of what happens before, during, and after your Section 341 meeting of creditors.",
-  "url": "https://341meeting.org/what-to-expect.html",
+  "name": "Documents to Bring to Your 341 Meeting",
+  "description": "Complete checklist of documents required for your Section 341 meeting of creditors.",
+  "url": "https://341meeting.org/documents-to-bring.html",
   "inLanguage": "en",
   "isPartOf": { "@type": "WebSite", "name": "341meeting.org", "url": "https://341meeting.org/" }
 }
@@ -148,8 +148,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "What to Expect at Your 341 Meeting",
-      "description": "Step-by-step walkthrough of what happens before, during, and after your Section 341 meeting of creditors in bankruptcy.",
+      "headline": "Documents to Bring to Your 341 Meeting",
+      "description": "Complete checklist of documents required for your Section 341 meeting of creditors. ID, tax returns, pay stubs, bank statements, and more.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -161,37 +161,16 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://341meeting.org/what-to-expect.html"
+      "mainEntityOfPage": "https://341meeting.org/documents-to-bring.html"
     }
   ]
 }
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "If the Meeting Was Concluded?", "acceptedAnswer": {"@type": "Answer", "text": "Once concluded, your case moves to the next phase. In Chapter 7 , creditors have 60 days to file objections to your discharge. If no objections are filed, the court enters your discharge - typically about 90 days after the meeting date."}}, {"@type": "Question", "name": "If the Meeting Was Continued?", "acceptedAnswer": {"@type": "Answer", "text": "Provide whatever the trustee requested as quickly as possible. Your attorney should handle the follow-up. The continued meeting is usually shorter because the trustee only needs to address the open items."}}, {"@type": "Question", "name": "If You Need to Amend Your Schedules?", "acceptedAnswer": {"@type": "Answer", "text": "If the meeting revealed errors in your petition - a forgotten asset, an incorrect address, an income figure that needs updating - your attorney should file an amendment promptly. Courts are generally understanding about honest mistakes caught at the 341 meeting."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What happens at a 341 meeting of creditors?", "acceptedAnswer": {"@type": "Answer", "text": "The trustee verifies your identity, places you under oath, and asks questions about your income, assets, debts, and bankruptcy schedules. Creditors may attend and ask questions, though most do not. The meeting typically lasts 5-15 minutes."}}, {"@type": "Question", "name": "What documents do I need for my 341 meeting?", "acceptedAnswer": {"@type": "Answer", "text": "Bring a valid government-issued photo ID, proof of Social Security number, recent pay stubs (60 days), your most recent tax return, and bank statements. The trustee may request additional documents before the meeting."}}, {"@type": "Question", "name": "Can my 341 meeting be held by phone or video?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Since 2020, most 341 meetings are conducted by telephone or video conference. Your attorney will provide the call-in details. The same rules and oath requirements apply regardless of the format."}}, {"@type": "Question", "name": "What if I miss my 341 meeting?", "acceptedAnswer": {"@type": "Answer", "text": "Missing your 341 meeting can result in your case being dismissed. If you have a legitimate reason, contact your attorney immediately to request a continuance. The trustee may reschedule, but repeated failures to appear will likely lead to dismissal."}}, {"@type": "Question", "name": "What questions will the trustee ask at my 341 meeting?", "acceptedAnswer": {"@type": "Answer", "text": "Standard questions cover your identity, whether you reviewed your petition, whether everything is accurate, your income sources, any recent property transfers, and any pending lawsuits or inheritances. The trustee is looking for undisclosed assets or income."}}]}
 </script>
-<link href="https://341meeting.org/what-to-expect.html" hreflang="en" rel="alternate"/>
-<link href="https://341meeting.org/what-to-expect-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://341meeting.org/documents-to-bring.html" hreflang="en" rel="alternate"/>
+<link href="https://341meeting.org/documents-to-bring-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -200,99 +179,141 @@
 <a class="nav-brand" href="/">341meeting.org</a>
 <div class="nav-links">
 <a href="/">Home</a>
-<a class="active" href="/what-to-expect.html">What to Expect</a>
+<a href="/what-to-expect.html">What to Expect</a>
 <a href="/questions-they-ask.html">Questions Asked</a>
-<a href="/documents-to-bring.html">Documents</a>
+<a class="active" href="/documents-to-bring.html">Documents</a>
 <a href="/zoom-vs-phone.html">Zoom &amp; Phone</a>
 <a href="/what-if-i-miss.html">What If I Miss It?</a>
 </div>
 </div>
 </nav>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://341meeting.org/">Home</a><span class="separator">›</span><span>What to Expect</span></nav>
-<h1>What to Expect at Your 341 Meeting</h1>
-<p class="subtitle">A step-by-step walkthrough - before, during, and after</p>
-<p>The 341 meeting of creditors is the one hearing that every bankruptcy filer must attend. If you know what to expect going in, it will feel much less stressful. Here is exactly what happens, broken into three phases.</p>
-<h2>Before the Meeting</h2>
-<h3>1. You Get a Notice</h3>
-<p>After your bankruptcy petition is filed, the court mails (or emails) a notice with the date, time, and location of your 341 meeting. This typically happens within a few days of filing. The meeting itself is usually set 20 to 40 days after your case is filed.</p>
-<h3>2. Gather Your Documents</h3>
-<p>You need to bring specific documents. At minimum: a government-issued photo ID and proof of your Social Security number. Most trustees also want to see your most recent tax return, 60 days of pay stubs, and recent bank statements. See our full <a href="/documents-to-bring.html">document checklist</a>.</p>
-<h3>3. Review Your Petition</h3>
-<p>Read through your bankruptcy schedules before the meeting. You will be asked under oath whether they are accurate. If you find errors, tell your attorney immediately - amendments can be filed before the meeting.</p>
-<h3>4. Meet with Your Attorney</h3>
-<p>A good attorney will schedule a pre-meeting review, either in person or by phone. They will walk you through the questions the trustee is likely to ask and explain anything that might come up. If your attorney does not do this, ask for it.</p>
-<h3>5. Know the Format</h3>
-<p>Check your notice to see if the meeting is in person, by phone, or by video. Many courts now use Zoom or similar platforms. If it is virtual, test your connection beforehand. See our <a href="/zoom-vs-phone.html">guide to virtual 341 meetings</a>.</p>
-<h2>During the Meeting</h2>
-<div class="step">
-<span class="step-number">1</span>
-<div class="step-content">
-<h3>Check In</h3>
-<p>If the meeting is in person, you will check in at the meeting location - often a federal building, trustee's office, or other designated space (not a courtroom). If virtual, you will join the call and wait in a virtual lobby. The trustee handles several cases in each time block, so you may wait 10 to 30 minutes before your case is called.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">2</span>
-<div class="step-content">
-<h3>Identity Verification</h3>
-<p>When your case is called, the trustee checks your photo ID and Social Security proof. For virtual meetings, you may be asked to hold your documents up to the camera or submit copies in advance. This step exists to prevent identity fraud in bankruptcy filings.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">3</span>
-<div class="step-content">
-<h3>Sworn Oath</h3>
-<p>The trustee places you under oath. From this point forward, everything you say is under penalty of perjury. This is the same oath used in court proceedings. Answer honestly - lying under oath in bankruptcy is a federal crime under <strong>18 U.S.C. Section 152</strong>.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">4</span>
-<div class="step-content">
-<h3>Standard Questions</h3>
-<p>The trustee asks a series of routine questions. These cover your income, assets, debts, and recent financial transactions. The questions are designed to verify - not challenge - what is in your petition. Most of this takes 5 to 10 minutes. See our <a href="/questions-they-ask.html">complete list of common trustee questions</a>.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">5</span>
-<div class="step-content">
-<h3>Follow-Up Questions (If Any)</h3>
-<p>If the trustee spots something unusual - a recent property transfer, a large payment to a family member, an asset that seems undervalued - they may ask follow-up questions. This does not mean something is wrong. It means the trustee is doing their job. Answer calmly and honestly.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">6</span>
-<div class="step-content">
-<h3>Creditor Questions (Rare)</h3>
-<p>Creditors have the legal right to attend and ask questions. In most consumer <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases, no creditors appear. When they do, it is usually a secured creditor (like a mortgage company) with a specific question about collateral. Your attorney will be there to object to improper questions.</p>
-</div>
-</div>
-<div class="step">
-<span class="step-number">7</span>
-<div class="step-content">
-<h3>Conclusion or Continuance</h3>
-<p>If the trustee is satisfied, the meeting is concluded. You will hear the trustee say something like "the meeting of creditors is concluded" or "I have no further questions at this time." If additional documents are needed, the meeting is <strong>continued</strong> - rescheduled to a future date. A continuance is not a punishment; it just means the trustee needs more information.</p>
-</div>
-</div>
-<h2>After the Meeting</h2>
-<h3>If the Meeting Was Concluded</h3>
-<p>Once concluded, your case moves to the next phase. In <strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></strong>, creditors have 60 days to file objections to your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. If no objections are filed, the court enters your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> - typically about 90 days after the meeting date. In <strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></strong>, your plan <a href="https://chapter13plan.org/" title="confirmation">confirmation hearing</a> is usually next, where the court decides whether to approve your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>.</p>
-<h3>If the Meeting Was Continued</h3>
-<p>Provide whatever the trustee requested as quickly as possible. Your attorney should handle the follow-up. The continued meeting is usually shorter because the trustee only needs to address the open items.</p>
-<h3>If You Need to Amend Your Schedules</h3>
-<p>If the meeting revealed errors in your petition - a forgotten asset, an incorrect address, an income figure that needs updating - your attorney should file an amendment promptly. Courts are generally understanding about honest mistakes caught at the 341 meeting.</p>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://341meeting.org/">Home</a><span class="separator">›</span><span>Documents to Bring</span></nav>
+<h1>Documents to Bring to Your 341 Meeting</h1>
+<p class="subtitle">A complete checklist so you do not show up unprepared</p>
+<p>Showing up to your 341 meeting without the right documents can result in a continuance - meaning the meeting gets rescheduled, which delays your entire case. Use this checklist to make sure you have everything you need.</p>
+<h2>Required by Every Trustee</h2>
+<p>These documents are mandatory in every bankruptcy district. Without them, the trustee cannot proceed.</p>
 <div class="card">
-<h3>Key Takeaway</h3>
-<p>The 341 meeting is the shortest and simplest part of most bankruptcy cases. If your paperwork is accurate and you answer honestly, it will be over in minutes. The worst thing you can do is skip it - see <a href="/what-if-i-miss.html">what happens if you miss your 341 meeting</a>.</p>
+<ul class="checklist">
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Government-issued photo ID</strong> <span class="required">Required</span><br/>
+          Driver's license, state ID, passport, or military ID. It must be current (not expired) and include your photo.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Proof of Social Security number</strong> <span class="required">Required</span><br/>
+          Social Security card, W-2, 1099, or SSA-1099 showing your full Social Security number. A document showing only the last four digits is not sufficient. If you have lost your Social Security card, a W-2 or tax document with the full number works.
+        </div>
+</li>
+</ul>
+</div>
+<h2>Commonly Required (Varies by District)</h2>
+<p>Most trustees require these, but requirements vary by district. Your attorney will tell you which ones apply in your court.</p>
+<div class="card">
+<ul class="checklist">
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Most recent federal tax return</strong> <span class="recommended">Commonly required</span><br/>
+          Typically the full return (not just the first two pages). Under <strong>11 U.S.C. Section 521(e)(2)</strong>, you must provide your tax return to the trustee at least 7 days before the meeting.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Pay stubs - last 60 days</strong> <span class="recommended">Commonly required</span><br/>
+          Under <strong>Section 521(a)(1)(B)(iv)</strong>, you must provide evidence of your current income. Bring all pay stubs received in the 60 days before you filed.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Bank statements - last 60 to 90 days</strong> <span class="recommended">Commonly required</span><br/>
+          Statements for all accounts listed in your schedules. Some trustees request 90 days; others want 60 days. Include checking, savings, and any other deposit accounts.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Vehicle titles or registration</strong> <span class="recommended">Commonly required</span><br/>
+          If you own vehicles, bring proof of ownership. The trustee may want to verify the value you listed.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Mortgage statements or lease agreements</strong> <span class="recommended">Commonly required</span><br/>
+          Current statements showing your balance, payment amount, and lender.
+        </div>
+</li>
+</ul>
+</div>
+<h2>May Be Requested in Specific Situations</h2>
+<p>These documents are not always needed but may be requested depending on your case.</p>
+<div class="card">
+<ul class="checklist">
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Business records</strong><br/>
+          If you own or recently owned a business: profit and loss statements, business bank statements, and business tax returns.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Real estate appraisals or valuations</strong><br/>
+          If you own real property, the trustee may request a recent appraisal or comparable sales data to verify the value you listed.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Divorce decree or separation agreement</strong><br/>
+          If you have domestic support obligations or recently divided property in a divorce.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Retirement account statements</strong><br/>
+          401(k), IRA, or pension statements showing current balances.
+        </div>
+</li>
+<li>
+<span class="check-icon">✓</span>
+<div>
+<strong>Insurance policies</strong><br/>
+          Life insurance policies with cash surrender value, or property insurance declarations pages.
+        </div>
+</li>
+</ul>
+</div>
+<h2>For Virtual Meetings</h2>
+<p>If your 341 meeting is by phone or Zoom, you may need to submit documents electronically before the meeting. Check your court's instructions and our <a href="/zoom-vs-phone.html">guide to virtual meetings</a>.</p>
+<p>Many trustees now accept documents uploaded to a secure portal, emailed as PDFs, or shown on camera during the meeting. Your attorney will know the specific process for your trustee.</p>
+<div class="card">
+<h3>Pro Tips</h3>
+<ul>
+<li><strong>Make copies.</strong> Bring originals and copies of everything. The trustee may want to keep copies.</li>
+<li><strong>Organize by category.</strong> Put documents in order: ID first, then tax returns, then pay stubs, then bank statements.</li>
+<li><strong>Ask your attorney for a specific list.</strong> Requirements vary by district and by individual trustee. Your attorney should know exactly what your trustee expects.</li>
+<li><strong>Do not bring documents you were not asked for.</strong> There is no need to bring stacks of credit card statements or collection letters unless specifically requested.</li>
+<li><strong>If you are missing something, tell your attorney now.</strong> It is better to request a continuance in advance than to show up without required documents.</li>
+</ul>
 </div>
 <div class="internal-links">
 <h3>Related Guides</h3>
 <ul>
-<li><a href="/questions-they-ask.html">Questions trustees commonly ask at the 341 meeting</a></li>
-<li><a href="/documents-to-bring.html">Complete document checklist</a></li>
-<li><a href="/zoom-vs-phone.html">Virtual 341 meetings: Zoom, phone, and post-COVID changes</a></li>
+<li><a href="/what-to-expect.html">What to expect at your 341 meeting</a></li>
+<li><a href="/questions-they-ask.html">Questions the trustee will ask</a></li>
+<li><a href="/zoom-vs-phone.html">Virtual 341 meetings: Zoom and phone</a></li>
 <li><a href="https://1328f.com/" rel="noopener">Free bankruptcy discharge screener</a></li>
-<li><a href="https://1328f.org/dashboard.html" rel="noopener">National bankruptcy data dashboard</a></li>
 </ul>
 </div>
 <div class="disclaimer">
@@ -402,8 +423,8 @@
 <div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
-<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=341meeting.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=341meeting.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=341meeting.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=341meeting.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 </ul>
 </div>

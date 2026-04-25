@@ -16,13 +16,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>What Happens If You Miss Your 341 Meeting?</title>
-<meta name="description" content="Missing your 341 meeting of creditors can result in case dismissal. Learn the consequences, how to reschedule, and what to do if you cannot ...">
-<link rel="canonical" href="https://341meeting.org/what-happens-if-you-miss.html">
-<meta property="og:title" content="What Happens If You Miss Your 341 Meeting?">
-<meta property="og:description" content="Missing your 341 meeting of creditors can result in case dismissal. Learn the consequences, how to reschedule, and what to do if you cannot ...">
+<title>341 Meeting: Chapter 7 vs Chapter 13 Differences</title>
+<meta name="description" content="Learn about 341 meeting: chapter 7 vs chapter 13 differences | 341meeting.org in our free 2026 guide. Clear explanations, real data, and pra...">
+<link rel="canonical" href="https://341meeting.org/chapter-7-vs-chapter-13.html">
+<meta property="og:title" content="341 Meeting: Chapter 7 vs Chapter 13 Differences">
+<meta property="og:description" content="Learn about 341 meeting: chapter 7 vs chapter 13 differences | 341meeting.org in our free 2026 guide. Clear explanations, real data, and pra...">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://341meeting.org/what-happens-if-you-miss.html">
+<meta property="og:url" content="https://341meeting.org/chapter-7-vs-chapter-13.html">
 <meta property="og:site_name" content="341meeting.org">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:image" content="https://341meeting.org/og-image.svg">
@@ -37,26 +37,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What happens if I miss my 341 meeting of creditors?",
+      "name": "Is the 341 meeting different for Chapter 7 and Chapter 13?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If you miss your 341 meeting without prior arrangement, the trustee will report your absence to the court. The court will typically give you one chance to attend a rescheduled meeting. If you miss the rescheduled meeting, the court will almost certainly dismiss your case. Dismissal means you lose the protection of the automatic stay and your debts remain."
+        "text": "Yes. In Chapter 7, the panel trustee focuses on identifying non-exempt assets that could be liquidated to pay creditors. The meeting is typically 5-10 minutes and asset-focused. In Chapter 13, the standing trustee focuses on income verification and whether the proposed repayment plan is feasible. Chapter 13 meetings tend to be slightly longer (5-15 minutes) and may involve more detailed budget questions."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I reschedule my 341 meeting?",
+      "name": "Who conducts the 341 meeting in Chapter 7 vs Chapter 13?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can request a continuance (rescheduling) of your 341 meeting through your attorney or by contacting the trustee's office directly. Valid reasons include medical emergencies, work conflicts, or inability to obtain required documents. The trustee has discretion to grant or deny the request. Routine rescheduling requests are usually granted once."
+        "text": "In Chapter 7, the meeting is conducted by a panel trustee - a private attorney appointed from a rotating panel by the U.S. Trustee. Each case gets a different trustee. In Chapter 13, the meeting is conducted by a standing trustee - a permanent trustee assigned to a geographic region who handles all Chapter 13 cases in that area."
       }
     },
     {
       "@type": "Question",
-      "name": "Will my bankruptcy case be dismissed if I miss the 341 meeting?",
+      "name": "Is the Chapter 13 341 meeting harder than Chapter 7?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not automatically after one absence, but possibly. The trustee reports non-appearance, and the court may issue a notice of intent to dismiss. You typically get one continuance. If you fail to appear at the rescheduled meeting, dismissal is almost certain. In Chapter 7, the court may deny your discharge rather than dismiss the case."
+        "text": "Not necessarily harder, but more detailed. The Chapter 13 trustee will ask more questions about your income, expenses, and ability to make plan payments. If your income is complex (self-employment, overtime, commissions), expect more scrutiny. The Chapter 7 meeting is generally shorter and more focused on asset disclosure."
       }
     }
   ]
@@ -86,6 +86,9 @@
   .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; } .warning-box p { margin-bottom: 0.5rem; } .warning-box p:last-child { margin-bottom: 0; }
   .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; } .green-box p { margin-bottom: 0.5rem; } .green-box p:last-child { margin-bottom: 0; }
   .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; } .yellow-box p { margin-bottom: 0.5rem; } .yellow-box p:last-child { margin-bottom: 0; }
+  table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  th, td { padding: 0.6rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+  th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
   footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; font-size: 0.85rem; color: var(--text-muted); margin-top: 2rem; } footer a { color: var(--accent); }
   @media (max-width: 768px) {
     .hamburger { display: inline-block; }
@@ -93,6 +96,7 @@
     .nav-links.open { display: flex; }
     .nav-links a { display: block; padding: 0.6rem 0; font-size: 0.95rem; min-height: 44px; line-height: 2; border-bottom: 1px solid #21262d; }
     main { padding: 1.5rem 1rem; } h1 { font-size: 1.4rem; }
+    table { font-size: 0.8rem; } th, td { padding: 0.5rem 0.6rem; }
   }
 </style>
 <script type="application/ld+json">
@@ -104,8 +108,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "What Happens If You Miss Your 341 Meeting?",
-      "description": "Missing your 341 meeting of creditors can result in case dismissal. Learn the consequences, how to reschedule, and what to do if you cannot attend.",
+      "headline": "Chapter 7 vs Chapter 13: How the 341 Meeting Differs",
+      "description": "How the 341 meeting of creditors differs between Chapter 7 and Chapter 13 bankruptcy. Different trustees, different questions, different focus areas.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -117,7 +121,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://341meeting.org/what-happens-if-you-miss.html"
+      "mainEntityOfPage": "https://341meeting.org/chapter-7-vs-chapter-13.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -137,15 +141,71 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "What Happens If You Miss Your 341 Meeting?",
-          "item": "https://341meeting.org/what-happens-if-you-miss.html"
+          "name": "Chapter 7 vs Chapter 13: How the 341 Meeting Differs",
+          "item": "https://341meeting.org/chapter-7-vs-chapter-13.html"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "Chapter 7 vs Chapter 13: How the 341 Meeting Differs",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\n341 Meeting: Chapter 7 vs Chapter 13 Differences"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Home equity: Is there equity beyond the homestead exemption?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Bank balances: Was there excess cash in your accounts on the filing date?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Tax refunds: Are you expecting a large refund?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Transfers: Did you give away or sell property before filing to keep it out of the estate?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Unreported assets: Did you forget (or \"forget\") to list something?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "ID and SSN verification"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Oath administered"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Standard questions (petition accuracy, asset disclosure, transfers)"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Quick review of scheduled assets - trustee may ask about specific items"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "What Happens If You Miss Your 341 Meeting?",
-      "url": "https://341meeting.org/what-happens-if-you-miss.html",
+      "name": "Chapter 7 vs Chapter 13: How the 341 Meeting Differs",
+      "url": "https://341meeting.org/chapter-7-vs-chapter-13.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -160,29 +220,8 @@
 }
 </script>
 
-<link rel="alternate" hreflang="en" href="https://341meeting.org/what-happens-if-you-miss.html">
-<link rel="alternate" hreflang="es" href="https://341meeting.org/what-happens-if-you-miss-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://341meeting.org/chapter-7-vs-chapter-13.html">
+<link rel="alternate" hreflang="es" href="https://341meeting.org/chapter-7-vs-chapter-13-es.html">
 </head>
 <body>
 
@@ -195,110 +234,175 @@
     <a href="questions-they-ask.html">Questions</a>
     <a href="documents-to-bring.html">Documents</a>
     <a href="phone-vs-in-person.html">Phone vs In-Person</a>
-    <a href="what-happens-if-you-miss.html" class="active">If You Miss It</a>
-    <a href="chapter-7-vs-chapter-13.html">Ch. 7 vs Ch. 13</a>
+    <a href="what-happens-if-you-miss.html">If You Miss It</a>
+    <a href="chapter-7-vs-chapter-13.html" class="active">Ch. 7 vs Ch. 13</a>
   </div>
 </nav>
 
-<div class="breadcrumb"><a href="/">Home</a> / What Happens If You Miss It</div>
+<div class="breadcrumb"><a href="/">Home</a> / Chapter 7 vs Chapter 13</div>
 
 <main>
 
-<h1>What Happens If You Miss Your 341 Meeting?</h1>
-<p class="subtitle">Short answer: your case could be dismissed. But there are options if you act fast.</p>
+<h1>Chapter 7 vs Chapter 13: How the 341 Meeting Differs</h1>
+<p class="subtitle">Same meeting name, different trustee, different questions, different focus.</p>
 
-<div class="warning-box">
-  <p><strong>Missing your 341 meeting is one of the most common reasons for early case <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>.</strong> The Bankruptcy Code requires you to appear. If you know you cannot attend, contact your attorney or the trustee's office as far in advance as possible.</p>
-</div>
+<h2>Side-by-side comparison</h2>
 
-<h2>What happens step by step</h2>
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Feature</th>
+      <th scope="col"><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></th>
+      <th scope="col"><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Trustee type</strong></td>
+      <td>Panel trustee (rotates per case)</td>
+      <td>Standing trustee (same for all cases in area)</td>
+    </tr>
+    <tr>
+      <td><strong>Primary focus</strong></td>
+      <td>Non-exempt assets to liquidate</td>
+      <td>Income and plan feasibility</td>
+    </tr>
+    <tr>
+      <td><strong>Typical duration</strong></td>
+      <td>5-10 minutes</td>
+      <td>5-15 minutes</td>
+    </tr>
+    <tr>
+      <td><strong>Key questions</strong></td>
+      <td>Property values, transfers, <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a></td>
+      <td>Income, expenses, plan payment ability</td>
+    </tr>
+    <tr>
+      <td><strong>Creditor attendance</strong></td>
+      <td>Very rare</td>
+      <td>Slightly more common</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://reaffirmationagreement.org/" title="reaffirmation agreement">Reaffirmation</a> discussion</strong></td>
+      <td>Common (car loans, etc.)</td>
+      <td>Not applicable (debts handled through plan)</td>
+    </tr>
+    <tr>
+      <td><strong>What comes next</strong></td>
+      <td>60-day objection period, then <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></td>
+      <td>Plan <a href="https://chapter13plan.org/" title="confirmation">confirmation hearing</a></td>
+    </tr>
+    <tr>
+      <td><strong>Outcome if "no asset"</strong></td>
+      <td>Meeting concluded, case toward <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></td>
+      <td>N/A (<a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> always has a plan)</td>
+    </tr>
+  </tbody>
+</table>
 
-<h3>1. The trustee reports your absence</h3>
-<p>When a debtor fails to appear at the 341 meeting, the trustee notes the non-appearance in the case record. The trustee may file a report with the court or simply request that the meeting be continued to give you another chance.</p>
+<h2>The Chapter 7 meeting</h2>
 
-<h3>2. The court issues a notice</h3>
-<p>In many districts, the court will issue a "notice of intent to dismiss" or an order requiring you to appear at a rescheduled meeting. This is your warning. The notice typically gives you a specific date by which you must attend.</p>
+<h3>Who runs it</h3>
+<p>A <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> panel trustee is a private attorney appointed from a pool maintained by the U.S. Trustee. Each case is randomly assigned a different panel trustee. The trustee earns a fee only if they find and liquidate assets - in most consumer cases, they do not find anything, and the case is a "no asset" case.</p>
 
-<h3>3. One more chance (usually)</h3>
-<p>Most trustees and courts will give you one continuance - one rescheduled meeting date. This is not guaranteed, but it is standard practice. The rescheduled meeting is typically 2-4 weeks later.</p>
-
-<h3>4. Dismissal if you miss again</h3>
-<p>If you fail to appear at the rescheduled meeting, the court will almost certainly dismiss your case. In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, the court may alternatively deny your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> - which is actually worse than <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> because it means the debts remain but you used your filing and cannot easily <a href="https://canifileagain.org/" title="file bankruptcy again">file again</a>.</p>
-
-<h2>Consequences of dismissal</h2>
-
-<p>When your case is dismissed:</p>
-
+<h3>What they are looking for</h3>
+<p>The Chapter 7 trustee has one primary job: find non-exempt assets that can be sold to pay creditors. This means they focus on:</p>
 <ul>
-  <li><strong>The <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> lifts immediately.</strong> Creditors can resume collections, lawsuits, garnishments, and foreclosure.</li>
-  <li><strong>Your debts remain.</strong> Nothing is discharged. You are back to where you started before filing.</li>
-  <li><strong>Filing again may be harder.</strong> If you <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> within 180 days of a dismissal for failure to appear, the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> in your new case may only last 30 days (under 11 U.S.C. &sect; 362(c)(3)), or you may not get a stay at all if it is your third filing (11 U.S.C. &sect; 362(c)(4)).</li>
-  <li><strong>You lose filing fees.</strong> The filing fee for your dismissed case is not refunded.</li>
-  <li><strong>Attorney fees may not be refunded.</strong> Your attorney may have a non-refundable retainer or may have already earned most of the fee.</li>
+  <li><strong>Property values:</strong> Is your car worth more than what you owe plus your exemption?</li>
+  <li><strong>Home equity:</strong> Is there equity beyond the homestead exemption?</li>
+  <li><strong>Bank balances:</strong> Was there excess cash in your accounts on the filing date?</li>
+  <li><strong>Tax refunds:</strong> Are you expecting a large refund?</li>
+  <li><strong>Transfers:</strong> Did you give away or sell property before filing to keep it out of the estate?</li>
+  <li><strong>Unreported assets:</strong> Did you forget (or "forget") to list something?</li>
 </ul>
 
-<div class="statute-box">
-  <p><strong>11 U.S.C. &sect; 343:</strong> "The debtor shall appear and submit to examination under oath at the meeting of creditors." The word "shall" means mandatory. There is no exception for inconvenience or forgetfulness.</p>
+<h3>Typical Chapter 7 meeting flow</h3>
+<ol>
+  <li>ID and SSN verification</li>
+  <li>Oath administered</li>
+  <li>Standard questions (petition accuracy, asset disclosure, transfers)</li>
+  <li>Quick review of scheduled assets - trustee may ask about specific items</li>
+  <li><a href="https://reaffirmationagreement.org/" title="reaffirmation agreement">Reaffirmation</a> discussion (if applicable - usually car loans)</li>
+  <li>Meeting concluded or continued</li>
+</ol>
+
+<div class="green-box">
+  <p><strong>Most Chapter 7 meetings are uneventful.</strong> Approximately 95% of consumer Chapter 7 cases are "no asset" cases. The trustee confirms there is nothing to liquidate, concludes the meeting, and moves on to the next case.</p>
 </div>
 
-<h2>Valid reasons for missing - and how to handle them</h2>
+<h3>Reaffirmation in Chapter 7</h3>
+<p>A topic unique to Chapter 7: reaffirmation. If you have a car loan or other secured debt you want to keep, the trustee may ask whether you plan to reaffirm (agree to keep paying) or surrender the property. Your attorney should have discussed this with you before the meeting. The trustee may ask:</p>
+<ul>
+  <li>"Do you intend to reaffirm the debt on your vehicle?"</li>
+  <li>"Has your attorney advised you about the <a href="https://reaffirmationagreement.org" title="Reaffirmation Agreements - Open Bankruptcy Project" target="_blank" rel="noopener">reaffirmation agreement</a>?"</li>
+  <li>"Are you current on your car payments?"</li>
+</ul>
 
-<h3>Medical emergency</h3>
-<p>If you are hospitalized or have a documented medical emergency, contact your attorney immediately. The trustee will typically continue the meeting without issue. Provide medical documentation if requested.</p>
+<h2>The Chapter 13 meeting</h2>
 
-<h3>Work conflict</h3>
-<p>Tell your attorney as soon as you know about the conflict. The trustee may be willing to reschedule, especially if contacted well in advance. Some trustees have evening or early morning meeting slots.</p>
+<h3>Who runs it</h3>
+<p>A Chapter 13 standing trustee is a permanent, full-time trustee assigned to a specific geographic region. Unlike Chapter 7 panel trustees who rotate, the standing trustee handles every Chapter 13 case in their territory. They know the local attorneys, the local practices, and they have seen thousands of plans.</p>
 
-<h3>Transportation or childcare issues</h3>
-<p>These are harder to use as excuses, especially now that many meetings are by phone. If your meeting is in person and you genuinely cannot get there, your attorney should request a telephonic appearance.</p>
+<h3>What they are looking for</h3>
+<p>The Chapter 13 trustee's main concern is whether your <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">repayment plan</a> is feasible and compliant with the Bankruptcy Code. They focus on:</p>
+<ul>
+  <li><strong>Income verification:</strong> Does your actual income match what your petition says?</li>
+  <li><strong>Expense reasonableness:</strong> Are your listed expenses realistic or inflated?</li>
+  <li><strong>Plan payment ability:</strong> Can you actually afford the monthly plan payment?</li>
+  <li><strong>Disposable income:</strong> Are you committing all disposable income to the plan (as required)?</li>
+  <li><strong>Tax return compliance:</strong> Have you filed all required tax returns?</li>
+  <li><strong>Domestic support obligations:</strong> Are you current on child support or alimony?</li>
+</ul>
 
-<h3>You forgot</h3>
-<p>This is the worst reason but the most honest. Call your attorney immediately. If the meeting already happened and you missed it, the trustee will reschedule - but you have used your one chance.</p>
-
-<h3>Your attorney told you the wrong date</h3>
-<p>This is your attorney's error, and the trustee will usually continue the meeting. Document the miscommunication. If your case is dismissed because of your attorney's mistake, you may have a malpractice claim.</p>
+<h3>Typical Chapter 13 meeting flow</h3>
+<ol>
+  <li>ID and SSN verification</li>
+  <li>Oath administered</li>
+  <li>Standard questions (petition accuracy, asset disclosure, transfers)</li>
+  <li>Income questions - current earnings, sources, changes since filing</li>
+  <li>Expense review - the trustee may challenge specific budget items</li>
+  <li>Plan payment confirmation - "Can you afford $X per month for 36-60 months?"</li>
+  <li>Discussion of any outstanding issues with the plan</li>
+  <li>Meeting concluded or continued</li>
+</ol>
 
 <div class="yellow-box">
-  <p><strong>The single best thing you can do:</strong> communicate early. The moment you know you might not be able to attend, tell your attorney. Trustees are reasonable people. A proactive request to reschedule is always better received than a no-show followed by excuses.</p>
+  <p><strong>Chapter 13 meetings are more likely to be continued</strong> than Chapter 7 meetings. This is because the plan may not be finalized yet, tax returns may be outstanding, or the trustee may need additional financial documentation. A continuation is not a failure - it is just part of the process.</p>
 </div>
 
-<h2>Can you get your case reinstated after dismissal?</h2>
+<h2>Income complications in Chapter 13</h2>
 
-<p>Sometimes. You can file a <a href="https://vacatejudgment.org/" title="vacate judgment">motion to vacate</a> the dismissal and reinstate your case if you can show "good cause." Courts consider:</p>
-
-<ul>
-  <li>Whether the failure to appear was due to circumstances beyond your control</li>
-  <li>Whether you acted promptly after learning of the dismissal</li>
-  <li>Whether reinstating the case would prejudice creditors</li>
-  <li>Whether you have a pattern of filing and failing to prosecute cases</li>
-</ul>
-
-<p>A <a href="https://vacatejudgment.org/" title="vacate judgment">motion to vacate</a> dismissal is not guaranteed to succeed and usually requires a court hearing. It is far easier to attend the meeting in the first place.</p>
-
-<h2>What about Chapter 13 specifically?</h2>
-
-<p>In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases, missing the 341 meeting has additional consequences:</p>
+<p>If you have straightforward W-2 income, the Chapter 13 meeting is simple. But certain income situations lead to more scrutiny:</p>
 
 <ul>
-  <li>Your plan cannot be confirmed until the 341 meeting is completed</li>
-  <li>You are still required to make plan payments even while the meeting is pending</li>
-  <li>The standing trustee may move to dismiss for failure to appear, failure to commence plan payments, or both</li>
-  <li>If your case is dismissed, any payments already made through the trustee are returned to you (minus trustee fees), and your creditors can resume collection</li>
+  <li><strong>Self-employment:</strong> The trustee will want profit-and-loss statements, business bank statements, and may question whether business expenses are legitimate or inflated</li>
+  <li><strong>Overtime or commission income:</strong> The trustee may ask about the stability of this income and whether your plan relies on it</li>
+  <li><strong>Household contributions:</strong> If a non-filing spouse or household member contributes to expenses, the trustee may ask about their income</li>
+  <li><strong>Side income:</strong> Gig work, rental income, cash jobs - all must be disclosed and may affect your plan payment</li>
+  <li><strong>Recent job change:</strong> If you changed jobs since filing, the trustee will ask about your new income</li>
 </ul>
 
-<h2>If you are thinking about skipping on purpose</h2>
+<h2>Creditor attendance differences</h2>
 
-<p>Some people file bankruptcy to get the temporary benefit of the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> (stopping a foreclosure, halting a <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a>) and then intentionally skip the 341 meeting, knowing the case will be dismissed. Courts are aware of this tactic. If the court finds this is what you did:</p>
+<p>Creditors rarely attend 341 meetings in either chapter, but they are slightly more likely to attend in Chapter 13 cases. Here is why:</p>
 
 <ul>
-  <li>You may be barred from filing again for 180 days</li>
-  <li>If you do refile, the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> may be limited to 30 days or denied entirely</li>
-  <li>The court may impose sanctions</li>
-  <li>Repeated serial filings can result in an order prohibiting future filings without court permission</li>
+  <li><strong>Mortgage lenders</strong> may attend Chapter 13 meetings if there are arrears being cured through the plan, to confirm the debtor's intentions</li>
+  <li><strong>Car lenders</strong> are more likely to attend Chapter 7 meetings to discuss reaffirmation or surrender</li>
+  <li><strong>Credit card companies</strong> almost never attend in either chapter</li>
+  <li><strong>Tax authorities</strong> (IRS, state) occasionally attend if there are significant tax debts</li>
 </ul>
 
-<div class="warning-box">
-  <p><strong>Bottom line:</strong> attend your 341 meeting. If you filed bankruptcy, you presumably need the relief it provides. The meeting is 5-15 minutes. Do not lose your entire case over a meeting shorter than a lunch break.</p>
+<h2>After the meeting</h2>
+
+<h3>After a Chapter 7 meeting</h3>
+<p>If the trustee concludes the meeting as a "no asset" case, the clock starts on a 60-day period during which creditors can object to your discharge. If no objections are filed, the court enters your discharge - typically about 90 days after the 341 meeting. You are done.</p>
+
+<h3>After a Chapter 13 meeting</h3>
+<p>The 341 meeting is just one step. After the meeting, your case moves toward <a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a>, which is a separate court hearing (sometimes before the judge). The standing trustee may file a recommendation supporting or opposing your plan. If confirmed, you make plan payments for 36 to 60 months. Your discharge comes at the end of the plan, years later.</p>
+
+<div class="statute-box">
+  <p><strong>The same statute governs both:</strong> 11 U.S.C. &sect; 341 requires a meeting of creditors in every case regardless of chapter. The same statute, 11 U.S.C. &sect; 343, requires the debtor to appear and testify under oath. What differs is the trustee's role, focus, and what happens next.</p>
 </div>
 
 
@@ -325,7 +429,7 @@
   </form>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 
@@ -395,7 +499,7 @@
     <a href="phone-vs-in-person.html">Phone vs In-Person</a> &middot;
     <a href="chapter-7-vs-chapter-13.html">Ch. 7 vs Ch. 13</a>
   </p>
-  <p style="font-size:0.75rem">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p style="font-size:0.75rem">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=341meeting.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=341meeting.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=341meeting.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 <div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
@@ -420,9 +524,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
   <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
   <ul style="list-style:none;padding:0;margin:0">
-    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=341meeting.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=341meeting.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=341meeting.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=341meeting.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=341meeting.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
   </ul>
 </div>
 <script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
